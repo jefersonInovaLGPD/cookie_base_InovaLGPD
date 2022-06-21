@@ -1,0 +1,1237 @@
+cookie,type,retention,description
+__cf_bm,Functional,1 day,"This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website."
+_nbuild_session,Functional,Session,Unique id that identifies the user's session.
+_nbuild_token,Functional,Session,Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.
+AWSALB,Functional,7 days,"Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience."
+AWSALBCORS,Functional,6 days,"Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience."
+CONSENT [x2],Functional,2 years,Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+CookieConsent,Functional,1 year,Stores the user's cookie consent state for the current domain
+has_js,Functional,Session,Registers whether or not the user has activated JavaScript in the browser.
+persist:root,Functional,Persistent,"This cookie stores visitor credentials in an encrypted cookie in order to allow the visitor to stay logged in on reentry, if the visitor has accepted the 'stay logged in'-button."
+PHPSESSID [x2],Functional,Session,Preserves user session state across page requests.
+persist:mte_viewer_volume,Functional,Persistent,Used by video players to remember the user's preferred sound volume.
+__qca,Performance,1 year,"Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content."
+__utm.gif,Performance,Session,Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+__utma,Performance,2 years,Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+__utmb,Performance,1 day,Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+__utmc,Performance,Session,Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+__utmt,Performance,1 day,Used to throttle the speed of requests to the server.
+__utmz,Performance,6 months,"Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics."
+_at.hist.#,Performance,Persistent,Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widget
+_dlt,Performance,1 day,Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+_ga,Performance,2 years,Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+_gat,Performance,1 day,Used by Google Analytics to throttle request rate
+_gid,Performance,1 day,Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+p.gif,Performance,Session,Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+umte_rpin,Performance,Persistent,"Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read."
+ustream-guest [x2],Performance,Session,Used to make live streaming of video content more efficient.
+vuid,Performance,2 years,"Collects data on the user's visits to the website, such as which pages have been read."
+__atuvc,Marketing,13 months,Updates the counter of a website's social sharing features.
+__atuvs,Marketing,1 day,"Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis."
+_at.cww,Marketing,Persistent,Used by the social sharing platform AddThis
+_twitter_sess,Marketing,Session,"Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service."
+at-lojson-cache-#,Marketing,Persistent,Used by the social sharing platform AddThis
+at-rand,Marketing,Persistent,Used by the social sharing platform AddThis
+fbssls_#,Marketing,Session,"Collects data on the visitor’s use of the comment system on the website, and what blogs/articles the visitor has read. This can be used for marketing purposes."
+guest_id,Marketing,13 months,"Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service."
+i/jot,Marketing,Session,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers."
+loc,Marketing,13 months,"Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level)."
+mc,Marketing,13 months,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads."
+uvc,Marketing,13 months,"Detects how often the social sharing service, AddThis, encounters the same user."
+VISITOR_INFO1_LIVE,Marketing,179 days,Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+WIDGET::local::assignments,Marketing,Persistent,"Used by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. This can be used for statistics or marketing purposes."
+xtc,Marketing,13 months,Registers the user's sharing of content via social media.
+YSC,Marketing,Session,Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY,Marketing,Persistent,Stores the user's video player preferences using embedded YouTube video
+yt-remote-cast-available,Marketing,Session,Stores the user's video player preferences using embedded YouTube video
+yt-remote-cast-installed,Marketing,Session,Stores the user's video player preferences using embedded YouTube video
+yt-remote-connected-devices,Marketing,Persistent,Stores the user's video player preferences using embedded YouTube video
+yt-remote-device-id,Marketing,Persistent,Stores the user's video player preferences using embedded YouTube video
+yt-remote-fast-check-period,Marketing,Session,Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-app,Marketing,Session,Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-name,Marketing,Session,Stores the user's video player preferences using embedded YouTube video
+persist:captionSettings,,Persistent,
+persist:hidden_context_menu_items,,Persistent,
+persist:provider,,Persistent,
+privateBrowseTest,,Persistent,
+MyECASDomain,Functional,Session,Remembers your domain
+__Secure_CASTGC,Functional,Session,Identifies your session
+__Secure_ECAS_SESSIONID,Functional,Session,Identifies the current Central Authentication Service session
+ECAS_PREFS,Functional,Session,Remembers your settings and preferences:
+CASPRIVACY,Functional,Session,EURES Authentication info
+CASTGC,Functional,Session,EURES Authentication info
+EURES_CAS_LOGGED_IN,Functional,Session,EURES Authentication info
+AUTH,Functional,Session,Used to switch and authenticate between applications of Foods Systems
+SECTOR,Functional,Session,Used to switch and authenticate between applications of Foods Systems.
+CFCASCOUNTPPPADMIN,Functional,Session,Cookie to limit the number of failed login attempts
+ecasST,Functional,Session,"Maintain a secure session for you, during your visit"
+ecasUser,Functional,Session,"Maintain a secure session for you, during your visit"
+userRoles,Functional,Session,Stores the user role
+CFCASCOUNTADNS,Functional,Session,Cookie to limit the number of failed login attempts
+_WL_AUTHCOOKIE_TNTSESSIONID,Functional,Session,"Maintain a secure session for you, during your visit"
+_WL_AUTHCOOKIE_JSESSIONID,Functional,Session,"Maintain a secure session for you, during your visit"
+UserProfileRasff,Functional,Session,Stores the user profile
+_WL_AUTHCOOKIE_SAAASIISession,Functional,Session,"Maintain a secure session for you, during your visit"
+moviedb_session,Functional, 2 hours,"Maintain a secure session for you, during your visit"
+CASAuth,Functional, 2 hours,"Maintain a secure session for you, during your visit"
+GIS_s-regio-gis3-p.net1.cec.eu.intP_SESSIONID,Functional,,authentication in order to use a service
+GIS_s-regio-gis4-p.net1.cec.eu.intP_SESSIONID,Functional,,authentication in order to use a service
+GIS_s-regio-gis3-a.net1.cec.eu.intP_SESSIONID,Functional,,authentication in order to use a service
+_socrata_session_id,Functional,,"Maintain a secure session for you, during your visit"
+_core_session_id,Functional,,"Maintain a secure session for you, during your visit"
+_storyteller_session,Functional,,"Maintain a secure session for you, during your visit"
+logged_in,Functional,,Contains an indicator whether the user in the current session has logged in.
+connect.sid,Functional,Session,"Maintain a secure session for you, during your visit"
+connect.sid.sdi-code-linker,Functional,Session,"Maintain a secure session for you, during your visit"
+JSESSIONID / CFID / CFTOKEN,Functional,Session,"Maintain a secure session for you, during your visit."
+"Ecsi, Eurostat-SearchFeedback",Functional, 1 month,Stores information on whether you have already replied to a survey pop-up – so you won't be asked again.
+theoplayer-session-id,Functional, persistent data,"Enables the player’s own analytics, currently not used."
+theoplayer-stored-network-info,Functional, persistent data,Enables the player’s bandwidth estimate to determine the best initial bandwidth and enhance the user experience.
+EURES_LF_MARKETPLACE_SESSIONID,Functional,Session,EURES Session info for Liferay
+EURES_LF_PLUGINS_SESSIONID,Functional,Session,EURES Session info for Liferay
+LFR_SESSION_STATE_xxxxx,Functional,Session,EURES Session info for Liferay
+cck1atlassian-analytics.confluence.lock,Functional, persistent data,Keeps Confluence analytics disabled
+confluence.sidebar.width,Functional, persistent data,Remembers the width of the sidebar
+browser-metrics-journey,Functional, valid for 60 minutes,"Intended for features performance metrics, but remains disabled - no data is logged"
+X-Qlik-Session,Functional, deleted after 30 minutes of inactivity,Opens and maintains an X-Qlik user session
+wtEtrans. Appended by the target translation language and a timestamp,Functional, persistent data,Stores the translation of the page you requested so that you don't have to wait when re-requesting its translation
+ApplicationGatewayAffinity,Functional,Session,used by Azure Gateway server
+ApplicationGatewayAffinityCORS,Functional,Session,used by Azure Gateway server
+EIPP_SESSION_ID,Functional, deleted after 10 minutes (automatically extended based on user activity),User session No additional information stored
+Vanilla / Vanilla-Vv / Vanilla-sid / Vanilla-tk,Functional, Vv - one day,Maintain login and operations on the ESCO Forum
+EURES_XXX_SESSION_ID,Functional,Session,EURES Session info
+PHPSESSID,Functional,Session,"Maintain a secure session for you, during your visit"
+CGISESSID,Functional,Session,"Maintain a secure session for you, during your visit"
+userSaasData,Functional,Session,"Maintain a secure session for you, during your visit"
+applicationMode,Functional,Session,"Maintain a secure session for you, during your visit"
+X-CSRF-TOKEN,Functional,Session,Used to avoid Cross-site attacks
+DPORead,Functional, 1 year,Confirmation that the privacy statement has been read by the user
+TNTSESSIONID,Functional,Session,"Maintain a secure session for you, during your visit"
+SAASIISession,Functional,Session,"Maintain a secure session for you, during your visit"
+SSESSxxxx,Functional,,Session identifier used by Drupal sites
+kci_stick_to_https,Functional,Session,"Maintain a secure session for you, during your visit"
+XSRF-TOKEN,Functional, 2 hours,"Maintain a secure session for you, during your visit"
+socrata-csrf-token,Functional,,"Maintain a secure session for you, during your visit"
+maintenance_ack,Functional,,Contains an indicator whether the user in the current session has dismissed a maintenance notice.
+renderTrackingId_#,Functional,,Contains an arbitrary integer value for determining when asynchronous page rendering has completed for the purposes of snapshotting the page.
+socrata_site_chrome_preview,Functional,,Temporary flag to allow previewing changes to site appearance.
+hide-clp-manager,Functional,,Records the user preference to dismiss the link to the Catalog Landing Page manager.
+browser_ack,Functional,,"Records the user preference to dismiss certain notices that appear on the platform, i.e. maintenance window notices."
+socrata-login-modal-accepted,Functional,,Records the user acceptance of an optional pre-login usage notice that certain customer domains require.
+js_flash,Functional,,Stores temporary user-facing notices as needed.
+atlassian-analytics.confluence.lock,Functional, persistent data,"Used for statistics only, in order to store statistics about Confluence usage"
+atst.healthcheck.sensors.page-protocols,Functional, persistent data,Keeps Confluence analytics disabled
+dashboard.route.last,Functional, persistent data,Remembers preference for information displayed on the user's dashboard
+MDR-EUDAMED-APP,Functional,Session,"Maintain a secure session for you, during your visit"
+newsroom_session,Functional,Session,"Maintain a secure session for you, during your visit"
+newsroom_session2,Functional,Session,"Maintain a secure session for you, during your visit"
+connect.sid.sdi-ddym,Functional,Session,"Maintain a secure session for you, during your visit"
+ETX_JSID,Functional,Session,"Maintain a secure session for you, during your visit"
+_pk_id#,Performance, 13 months,Recognises website visitors (anonymously – no personal information is collected on the user).
+_pk_ses#,Performance, 30 minutes,Identifies the pages viewed by the same user during the same visit.
+.AspNetCore.Antiforgery.w5W7x28NAIs,Functional,Session,To improve security between your browser and our servers as you are completing eForms.
+.AspNetCore.Session,Functional,Session,"To maintain session information when browsing the website, necessary to support multiple page eForms and to remember your progress until you complete the eForm."
+ASPSESSIONIDQGDSSAQT,Functional,Session,"To maintain session information when browsing the website, necessary to support multiple page eForms and to remember your progress until you complete the eForm."
+close-cookie-notice,Functional,one year,Records consent to cookies and closes the cookie preference popup.
+cookie-consent-necessary,Functional,one year,Records the date the visitor gave consent to necessary cookies.
+_gat_BarnsleyCouncil,Functional,Session,Helps to record visitors' use of the website without collecting personally identifiable data.
+nmstat,Functional,1000 days,Helps to record visitors' use of the website without collecting personally identifiable data.
+siteimproveses,Functional,Session,Helps to record visitors' use of the website without collecting personally identifiable data.
+whoson,Functional,13 month,Helps to record visitors' use of web chat against their web chat visitor record (which contains browser information and IP address).
+Session165,Functional,,Used to identify user and remember download center selections.
+    55,Functional,,Used to remember user’s cookie consent preferences.
+    55CC,Functional,,Used to remember user’s cookie consent preferences.
+    55tld,Functional,,Used to remember user’s cookie consent preferences.
+popinHide,Functional,,Hide poppin if user has already seen it
+CookieCon sent,Functional,,Stores the user’s cookie consent state for the current domain
+    utma,Performance,,Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.data is sent to Google Analytics.
+    utmt,Functional,,Used to throttle request rate.
+    utmb,Performance,,Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+    utmc,Performance,,Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+    utmz,Performance,,"Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics."
+    utmv,Performance,,Saves user-defined tracking parameters for use in Google Analytics.
+collect,Performance,,This cookie is used to send data to Google Analytics about the visitor’s device and behavior. It tracks the visitor across devices and marketing channels.
+ads/ga-audiences,Marketing,,Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor’s online behaviour across websites.
+NID,Marketing,,Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads.
+rc::a,Marketing,,Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+rc::b,Marketing,,Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+rc::c,Marketing,,Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+r/collect,Marketing,,This cookie is used to send data to Google Analytics about the visitor’s device and behavior. It tracks the visitor across devices and marketing channels.
+Name,Marketing,,Purpose
+,Marketing,,
+GPS,Functional,,Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+IDE,Functional,,Used by Google DoubleClick to register and report the
+PREF,Functional,,Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+test_cookie,Functional,,Used to check if the user’s browser supports cookies.
+yt-player-headers-readable,Functional,,Used to determine the optimal video quality based on the visitor’s device and network settings.
+lang,Functional,,Remembers the user’s selected language version of a website
+local_storage_support_test,Functional,,The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+ASPSESSIONIDXXXXXXXX,Functional,Session,
+OptanonAlertBoxClosed,Functional,365 Days,
+ OptanonConsent,Functional, 365 Days,
+ eupubconsent,Functional, 365 Days,
+ASP.NET_SessionId,Functional,Session,
+ OptanonConsent,Functional, 365 Days,
+ eupubconsent,Functional, 2914174 Days,
+__cfduid,Functional,30 Days,
+__hssc,Performance,A few seconds,
+ __hstc,Performance, 389 Days,
+ __hssrc,Performance, Session,
+_mkto_trk,Performance,729 Days,
+ _gid,Performance, 1 Day,
+ _gclxxxx,Performance, 89 Days,
+ __utmb,Performance, A few seconds,
+ _gat_UA-,Performance, A few seconds,
+ _ga,Performance, A few seconds,
+ __utma,Performance, 730 Days,
+hubspotutk,Functional,389 Days,
+visitor_id,Marketing,720 Days,
+ visitor_id295702-hash,Marketing, 730 Days,
+visitor_id#####,Marketing,730 Days,
+ pardot,Marketing, Session,
+AnalyticsSyncHistory,Marketing,30 Days,
+ lidc,Marketing, 1 Day,
+ lang,Marketing, Session,
+ bcookie,Marketing, 2 Years,
+ UserMatchHistory,Marketing, 1 Month,
+ li_gc,Marketing, 730 Days,
+bscookie,Marketing,365 Days,
+pardot,Marketing,Session,
+CONSENT,Marketing,6182 Days,
+ VISITOR_INFO1_LIVE,Marketing, 365 Days,
+ YSC,Marketing, Session,
+__CookieConsentV200,Functional,90 days,__CookieConsentV200 cookie is a plugin used to help you comply with EU guideline.
+_gat_UA-62656454-4,Performance,1 minute,It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+AWSALBTG,Functional,7 days,AWS Application Load Balancer Cookie: Load Balancing Cookie:  Used to encode information about the selected target group.
+AWSALBTGCORS,Functional,7 days,AWS Application Load Balancer Cookie: Load Balancing Cookie:  which includes the same information as the original stickiness cookie plus this SameSite attribute.
+_lfa,Performance,2 years,"Used in context with identifying company visitors to the website. The Leadfeeder cookie collects the behavioral data of all visitors from companies. The cookie registers data such as IP addresses, visitor sources, time spent on the website, and page requests for the visit. Data is processed where it pertains to company visitors and is not processed further for individual visitors."
+countryName,Functional,Until manually deleted,This is used to detect the country (from the list of countries provided) you are in for the customer website functionality .
+eupubconsent,Functional,2914137 Days,
+ OptanonAlertBoxClosed,Functional, 365 Days,
+cf_ob_info,Functional,A few seconds,
+ cf_use_ob,Functional, A few seconds,
+ OneTrustConsent,Functional, Session,
+cart_sig,Functional,14 Days,
+ cookietest,Functional, Session,
+ secure_customer_sig,Functional, 7305 Days,
+_optimizely_user,Functional,1824 Days,
+ _dc_gtm_UA-xxxxxxxx,Functional, A few seconds,
+ _orig_referrer,Functional, 14 Days,
+ _tldtest_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx,Functional, Session,
+Cookies,Performance,Lifespan,
+ai_user,Performance,365 Days,
+ _gat_UA-nnnnnnn-nn,Performance, A few seconds,
+ _landing_page,Performance, 14 Days,
+ _s,Performance, A few seconds,
+ _shopify_s,Performance, A few seconds,
+ _shopify_sa_p,Performance, A few seconds,
+ _shopify_sa_t,Performance, A few seconds,
+ _shopify_y,Performance, 365 Days,
+ _y,Performance, 365 Days,
+ __utmc,Performance, Session,
+ __utmz,Performance, 183 Days,
+ _gat,Performance, A few seconds,
+BrowserId,Performance,365 Days,
+sfdc-stream,Functional,A few seconds,
+NO_CACHE,Functional,Session,
+ELOQUA,Functional,396 Days,
+cookietest,Functional,Session,
+undefinedxxxxxxxxxxxxxxxxx,Marketing,Session,
+_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx,Marketing,A few seconds,
+ _gat_xxxxxxxxxxxxxxxxxxxxxxxxxx,Marketing, A few seconds,
+ _uetsid,Marketing, A few seconds,
+ amp_,Marketing, 3649 Days,
+ lissc,Marketing, 365 Days,
+_GRECAPTCHA,Marketing,180 Days,
+ NID,Marketing, 183 Days,
+ ELQSTATUS,Marketing, 397 Days,
+MUID,Marketing,Session,
+ JSESSIONID,Marketing, Session,
+JSESSIONID,,Session duration.,New Relic cookie used to monitor session counts for an application.
+MUID (Microsoft User ID),,365 days duration.,Set by Microsoft as a unique user ID and enables user tracking by synchronizing the ID across many Microsoft domains.
+NRAGENT,,Session duration.,"New Relic cookie, created only when a token is handed out to an end-user by the New Relic server."
+NREUM,,Session duration.,"New Relic cookie, only created in browsers that don’t support the Navigation Timing API."
+UserMatchHistory,,30 days duration.,Set by LinkedIn Ads for ID syncing.
+_BEAMER_DATE_{product ID},,300 days duration.,"Set by Beamer, stores the latest date in which the feed was opened."
+_BEAMER_FILTER_BY_URL_{product ID},,20 minutes duration.,"Set by Beamer, stores whether to apply URL filtering on the Beamer feed."
+_BEAMER_FIRST_VISIT_{product ID},,3000 days duration.,Set by Beamer to store the date of this user's first interaction with Hotjar Insights.
+_BEAMER_LAST_UPDATE_{product ID},,3000 days duration.,Set by Beamer and stores the timestamp for the last time the number of unread posts was updated for this user.
+_BEAMER_USER_ID_{product ID},,300 days duration.,Set by Beamer to store an internal ID for a user.
+_fbp,,3 months duration.,Used by Facebook to deliver a series of advertisement products such as real-time bidding from third-party advertisers.
+_gaexp,,90 days duration (can depend on experiment length).,"Set by Google Analytics, used to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in."
+_gcl_au,,3 months duration.,Set by Google Analytics to take information in advert clicks and store it in a 1st party cookie so that conversions can be attributed outside of the landing page.
+_hjAbsoluteSessionInProgress,,30 minutes duration.,Used to detect the first pageview session of a user.
+_hjCachedUserAttributes,,Session duration.,"Stores User Attributes sent through the Hotjar Identify API, whenever the user is not in the sample."
+_hjClosedSurveyInvites,,365 days duration.,Set when a user interacts with an external link Survey invitation modal.
+_hjDonePolls,,365 days duration.,Set when a user completes an on-site Survey.
+_hjFirstSeen,,Session duration.,Identifies a new user’s first session.
+_hjIncludedInPageviewSample,,30 minutes duration.,Set to determine if a user is included in the data sampling defined by your site's pageview limit.
+_hjIncludedInSessionSample,,30 minutes duration.,Set to determine if a user is included in the data sampling defined by your site's daily session limit.
+_hjLocalStorageTest,,Under 100ms duration.,Checks if the Hotjar Tracking Code can use local storage.
+_hjMinimizedPolls,,365 days duration.,Set when a user minimizes an on-site Survey.
+_hjRecordingEnabled,,Session duration.,Set when a Recording starts.
+_hjRecordingLastActivity,,Session duration.,Set in Session storage as opposed to cookies.
+_hjSessionRejected,,Session duration.,"If present, set to '1' for the duration of a user's session, when Hotjar has rejected the session from connecting to our WebSocket due to server overload."
+_hjSessionResumed,,Session duration.,Set when a session/recording is reconnected to Hotjar servers after a break in connection.
+_hjSessionTooLarge,,Session duration.,Causes Hotjar to stop collecting data if a session becomes too large.
+_hjSessionUser_{site_id},,365 days duration.,Set when a user first lands on a page.
+_hjSession_{site_id},,30 minutes duration.,Holds current session data.
+_hjShownFeedbackMessage,,365 days duration.,Set when a user minimizes or completes a Feedback widget.
+_hjTLDTest,,"Enables us to try to determine the most generic cookie path to use, instead of page hostname.",We try to store the _hjTLDTest cookie for different URL substring alternatives until it fails.
+_hjUserAttributesHash,,Session duration.,User Attributes sent through the Hotjar Identify API are cached for the duration of the session.
+_hjViewportId,,Session duration.,Stores user viewport details such as size and dimensions.
+_hjid,,365 days duration.,Set when a user first lands on a page.
+ajs_anonymous_id,,365 days duration.,Set by Segment as a randomly generated ID for anonymous users.
+ajs_group_id,,365 days duration.,"Set by Segment, used to group visits by different website users if logged in."
+ajs_user_id,,365 days duration.,"Set by Segment, used for usage analytics if logged in."
+ajs_user_traits,,365 days duration.,Set by Segment to identify call is made on hotjar.com.
+bcookie,,2 years duration.,Set by LinkedIn to keep track of the browser ID.
+lidc,,1-day duration.,"Set by LinkedIn, used for routing."
+lissc,,365 days duration.,Used by LinkedIn for tracking the use of embedded services.
+mp_*,,Duration decided by Mixpanel.,Set by Mixpanel to track usage on hotjar.com.
+optimizely*,,Duration decided by Optimizely.,Set by Optimizely to run tests on hotjar.com.
+segment_id,,365 days duration.,"A Hotjar cookie that creates a unique ID for users and is used to consistently trigger experiments, for example."
+X-Access-Key,Functional,Session duration,Keeps your website session alive.
+_hjOptOut,Functional,4 months duration.,Hotjar Opt-Out setting. More information can be found on our Do Not Track page.
+_hjptid,Functional,Session duration.,Set for logged-in users of Hotjar who have Admin Team Member permissions.
+hjSiteLang,Functional,365 days duration.,Set when a page that supports multiple languages on hotjar.com is visited.
+_stripe_mid ,functional,,Making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+_stripe_sid ,functional,,Making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+m ,functional,,Determines the device used to access the website. This allows the website to be formatted accordingly.
+rc::a ,functional,,This cookie is used to distinguish between humans and bots.
+rc::c ,functional,,This cookie is used to distinguish between humans and bots.
+NID ,marketing,,Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads.
+_dc_gtm_UA-# ,marketing,,Used by Google Tag Manager to control the loading of a Google Analytics script tag.
+_ga ,marketing,,Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+_gat ,marketing,,Used by Google Analytics to throttle request rate.
+_gid ,marketing,,Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+collect ,marketing,,Used to send data to Google Analytics about the visitor’s device and behavior. Tracks the visitor across devices and marketing channels.
+__utmv,,,Used to send data to Google Analytics about the visitor’s device and behavior. Tracks the visitor across devices and marketing channels.
+_gcl_au ,marketing,,Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+IDE ,marketing,,Used by Google DoubleClick to register and report the website user’s actions after viewing or clicking one of the advertiser’s ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+r/collect ,marketing,,This cookie is used to send data to Google Analytics about the visitor’s device and behavior. It tracks the visitor across devices and marketing channels.
+test_cookie ,marketing,,Used to check if the user’s browser supports cookies.
+OTZ,,,This cookie is set to collect information on user behaviour and navigation which is used to optimize the website – The cookie also allows Google Ads and Google Analytics to compile information on visitors for marketing purposes.
+tr ,marketing,,Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+fr ,marketing,,Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+fbevents.js,,,"Analytical cookies that track the traffic of the Site All user data is anonymous. For details on these cookies, please view the cookie policy of Facebook here."
+Facebook tracking pixel,,,"Tracking pixel which matches users anonymously with their Facebook ID, enabling remarketing, analysis and reporting of Depaul UK advertising campaigns."
+Personalization_id ,marketing,,This cookie is set by Twitter – The cookie allows the visitor to share content from the website on to their Twitter profile.
+i/adsct ,marketing,,The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+Twitter pixel code,,,"Tracking pixel which matches users anonymously with their Twitter ID, enabling remarketing, analysis and reporting of Depaul UK advertising campaigns."
+VISITOR_INFO1_LIVE ,marketing,,Tries to estimate the users’ bandwidth on pages with integrated YouTube videos.
+YSC ,marketing,,Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+yt-remote-cast-installed ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+yt-remote-connected-devices ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+yt-remote-device-id ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+yt-remote-fast-check-period ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+yt-remote-session-app ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+yt-remote-session-name ,marketing,,Stores the user’s video player preferences using embedded YouTube video.
+_hjIncludedInSample ,marketing,,Hotjar is an analytics and feedback tool that we use to understand how our website is used and improve usability. Hotjar sets cookies to help us track behaviour across pages and to control visitor polls. The cookies carry no personally identifiable information.
+_hjMinimizedPolls ,marketing,,More information.
+_hjUserId ,marketing,,More information.
+_hjDonePolls ,marketing,,More information.
+_hjDoneTestersWidgets ,marketing,,More information.
+[SessionID#27] ,functional,,Session cookies expire at the end of your browser session and allow PayPal to link your actions during that particular browser session.
+__paypal_storage__,,,Used in context with the PayPal payment function on the website. The cookie is necessary for making a safe transaction through PayPal.
+akavpau_ppsd,,,Used in context with the PayPal payment function on the website. The cookie is necessary for making a safe transaction through PayPal.
+ts,,,Used in context with the PayPal payment function on the website. The cookie is necessary for making a safe transaction through PayPal.
+ts_c,,,Used in context with the PayPal payment function on the website. The cookie is necessary for making a safe transaction through PayPal.
+cookiecheck,,,Determines whether the user has accepted the cookie consent box.
+__stripe_mid,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+__stripe_orig_props,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+__stripe_sid,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+checkout-live-session,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+checkout-test-session,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+m,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+country,Functional,Persistent,We use Stripe to allow users to make credit card payments online. Stripe uses cookies to remember who our users are and to enable us to process payments without storing any credit card information on our own servers.
+exp_last_visit,Functional,Persistent,"Our website is built on software called Expression Engine. Expression Engine uses these cookies to track the last 5 pages users viewed, the time of the last page load, and the date of a users last visit."
+exp_last_activity,Functional,Persistent,"Our website is built on software called Expression Engine. Expression Engine uses these cookies to track the last 5 pages users viewed, the time of the last page load, and the date of a users last visit."
+exp_perpage,Functional,Persistent,"Our website is built on software called Expression Engine. Expression Engine uses these cookies to track the last 5 pages users viewed, the time of the last page load, and the date of a users last visit."
+exp_tracker,Functional,Persistent,"Our website is built on software called Expression Engine. Expression Engine uses these cookies to track the last 5 pages users viewed, the time of the last page load, and the date of a users last visit."
+geo-redirect-dismissed,Functional,Persistent,"These cookies are used to identify users location, this allows us to suggest the appropriate regional website based on their location."
+locale,Functional,Persistent,"These cookies are used to identify users location, this allows us to suggest the appropriate regional website based on their location."
+1P_JAR,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+AID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+ANID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+APISID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+HSID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+OGP,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+OGPC,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+SAPISID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+SEARCH_SAMESITE,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+SIDSIDCC,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+SSID,Performance,Session & persistent,"These cookies are used to collect information about how users use our website. The cookies collect information including the number of users to the website, where users have come to the website from and the pages they visit."
+datr,Marketing,Persistent,"Facebook cookies create a link between a users visit to our website and Facebook. The DATR cookie is used when a web browser accesses Facebook, and helps Facebook identify suspicious login activity and keep users safe."
+dpr,Marketing,Persistent,"These cookies help Facebook to provide users with with more personalised advertisements, and also to measure and improve advertisements."
+fr,Marketing,Persistent,"These cookies help Facebook to provide users with with more personalised advertisements, and also to measure and improve advertisements."
+sb,Marketing,Persistent,"These cookies help Facebook to provide users with with more personalised advertisements, and also to measure and improve advertisements."
+wd,Marketing,Persistent,"These cookies help Facebook to provide users with with more personalised advertisements, and also to measure and improve advertisements."
+_bit,Marketing,Persistent,"This cookie registers a unique ID that identifies a user's device during return visits as well as information on their link clicks from the URL shortening service, Bitly."
+YT-REMOTE-CAST-INSTALLED,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+YT-REMOTE-CONNECTED-DEVICES,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+YT-REMOTE-DEVICE-ID,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+YT-REMOTE-FAST-CHECK-PERIOD,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+YT-REMOTE-SESSION-APP,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+YT-REMOTE-SESSION-NAME,Marketing,Persistent & Session,"These cookies are used by YouTube to enable tracking based on geographical GPS location, to keep statistics of how users used YouTube videos across different websites, to estimate the users bandwidth on pages with integrated YouTube videos, to keep statistics of what videos from YouTube the user has seen, and store user's video player preferences using embedded YouTube videos."
+li_gc,,2 years,
+_hjSessionUser_414361,,1 year,
+_hjSession_414361,,30 minutes,
+_gat_UA-16544465-4,Performance,1 minute,A variation of the _gat cookie set by Google Analytics and Google Tag Manager to allow website owners to track visitor behaviour and measure site performance. The pattern element in the name contains the unique identity number of the account or website it relates to.
+wordpress_test_cookie,Functional,session,This cookie is used to check if the cookies are enabled on the users' browser.
+laravel_session,Functional,,Laravel session data
+t_p_c,Functional,,Cookie to check if third part cookie is enabled
+hiver_session,Functional,,Session data of hiver
+Used to throttle request rate,Performance,,Analytics
+Used to determine new sessions/visits,Performance,,Analytics
+Stores the traffic source or campaign that explains how the user reached your site.,Performance,,Analytics
+Used to store visitor-level custom variable data.,Performance,,Analytics
+Used to distinguish users.,Performance,,Analytics
+Used to distinguish users,Performance,,Analytics
+km_ai,Performance,,Used to provide site owners with information about how visitors use the site.
+km_lv,Performance,,Used to provide site owners with information about how visitors use the site.
+km_ni,Performance,,Used to provide site owners with information about how visitors use the site.
+__hstc,Performance,,Targeting
+__hssrc,Performance,,Targeting
+hsPagesViewedThisSession,Performance,,To track the page view of known and unknown user.
+_omappvp,Functional,,Used by OptinMonster to remember popup preferences
+om-frbik3yjw9we3ghekeyk,Functional,,Used by OptinMonster to remember popup preferences
+omSeen-gqieqg5vinvatypyjw2g,Functional,,Used by OptinMonster to remember popup preferences
+om-gqieqg5vinvatypyjw2g,Functional,,Used by OptinMonster to remember popup preferences
+apt.uid,Performance,,Used for Gainsight PX analytics
+apt.sid,Performance,,Used for Gainsight PX analytics
+__distillery,Performance,,Used by Wistia
+cb_anonymous_id,Marketing,,Used by Clearbit for
+cb_group_id,Marketing,,Used by Clearbit
+cb_user_id,Marketing,,Used by Clearbit
+__adroll,Marketing,,Used by Rollworks for retargeting
+__adroll_shared,Marketing,,Used by Rollworks for retargeting
+gT,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_80,Marketing,,Used by Rollworks for retargeting
+SyncRTB3,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_377,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_330,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_1074,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_391,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_57,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_594,Marketing,,Used by Rollworks for retargeting
+DPSync3,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_107,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_904,Marketing,,Used by Rollworks for retargeting
+KADUSERCOOKIE,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_10,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_699,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_153,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_1159,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_32,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_1235,Marketing,,Used by Rollworks for retargeting
+SPugT,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_27,Marketing,,Used by Rollworks for retargeting
+KTPCACOOKIE,Marketing,,Used by Rollworks for retargeting
+chkChromeAb67Sec,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_22,Marketing,,Used by Rollworks for retargeting
+PUBMDCID,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_466,Marketing,,Used by Rollworks for retargeting
+KRTBCOOKIE_218,Marketing,,Used by Rollworks for retargeting
+dtlct,Marketing,,Used by Rollworks for retargeting
+adot,Marketing,,Used by Rollworks for retargeting
+actvagnt,Marketing,,Used by Rollworks for retargeting
+bdswch,Marketing,,Used by Rollworks for retargeting
+obuid,Marketing,,Used by Rollworks for retargeting
+rtbhs,Marketing,,Used by Rollworks for retargeting
+zmnta,Marketing,,Used by Rollworks for retargeting
+mdfrc,Marketing,,Used by Rollworks for retargeting
+rbcn,Marketing,,Used by Rollworks for retargeting
+adrl,Marketing,,Used by Rollworks for retargeting
+criteo,Marketing,,Used by Rollworks for retargeting
+apnxs,Marketing,,Used by Rollworks for retargeting
+ttd,Marketing,,Used by Rollworks for retargeting
+t_gid,Marketing,,Used by Rollworks for retargeting
+YBFYVWARYNgA,Marketing,,Used by Rollworks for retargeting
+CMPRO,Marketing,,Used by Rollworks for retargeting
+CMPS,Marketing,,Used by Rollworks for retargeting
+CMID,Marketing,,Used by Rollworks for retargeting
+CMRUM3,Marketing,,Used by Rollworks for retargeting
+DSID,Marketing,,Used by Rollworks for retargeting
+RUL,Marketing,,Used by Rollworks for retargeting
+APID,Marketing,,Used by Rollworks for retargeting
+_PCCSID_613813,Functional,,Used by Purechat for chat support
+_PCCSID_26281,Functional,,Used by Purechat for chat support
+OptanonConsent,Functional,,Used by Purechat for chat support
+_PCCID,Functional,,Used by Purechat for chat support
+thirdPartyCookiesEnabled,Functional,,Used by Purechat for chat support
+eu_cookie_consent,,,Stores your cookie preferences (so you won’t be asked again)
+cck3,,,Stores your preferences for 3rd-party cookies (so you won't be asked again)
+cck1,, 6 months,Stores your cookie preferences (so you won’t be asked again)
+clima_survey,, deleted after 1 day after you close the survey popup,Stores information on whether you have already replied to a survey pop-up – so you won't be asked again
+econt_font_size,, deleted after you quit your browser,"Stores the font size in which you want to read the content on the web page, following selection from the font-size menu"
+econt_resizable_width,, deleted after you quit your browser,Remembers the width of the sidebar
+escoLanguage,,,Stores your language preferences
+cookie-agreed,, 100 days,Stores your cookie preferences (so you won’t be asked again)
+tracesLanguage,, 30 days,Stores your language preferences
+announcementTooltipIds,, 365 days,Stores information on whether you have already read and dismissed pop-ups – so you won't be asked again.
+debug-mode,, 365 days,For technical problem investigations
+asp_transient_id,Necessary,6 Day(s),Unique id that identifies the userâ€™s session
+CookieLawInfoConsent,Necessary,1 Year(s),Records button state of the corresponding cookie categories
+pmpro_visit,Necessary,Session,User visit tracking
+pum-*,Necessary,1 Day(s),Controls pop-up display repetition
+wfwaf-authcookie-*,Necessary,Session,Used to perform a capability check of the logged in user
+wordpress_logged_in_*,Necessary,Session,"Used to indicate when users are logged in, and who they are"
+wordpress_sec_*,Necessary,15 Day(s),"Provides protection against hackers, stores account details"
+wp-settings-*,Necessary,1 Year(s),Used to persist a userâ€™s wp-admin configuration
+wp-settings-time-*,Necessary,1 Year(s),Used to customize the view of users admin interface and the front-end of the website
+__Secure-1PAPISID,Non-necessary,2 Year(s),Used for the purpose of targeted advertising
+__Secure-1PSID,Non-necessary,2 Year(s),Used for the purpose of targeted advertising
+__Secure-3PAPISID,Non-necessary,2 Year(s),Used for the purpose of targeted advertising
+__Secure-3PSID,Non-necessary,2 Year(s),Used for the purpose of targeted advertising
+__Secure-3PSIDCC,Non-necessary,2 Year(s),Used for the purpose of targeted advertising
+_gat_gtag_*,Non-necessary,1 Minute(s),Used by Google to throttle request rate
+fcookie,Non-necessary,7 Day(s),Used for bot detection
+li_alerts,Non-necessary,1 Year(s),"Used to track impressions of LinkedIn alerts, such as the Cookie Banner and to implement cool off periods for display of alerts"
+_ga_*,Non-necessary,2 Year(s),This cookie is set due to Twitter integration and sharing capabilities for the social media
+att,Non-necessary,1 Day(s),This cookie is set due to Twitter integration and sharing capabilities for the social media
+guest_id_ads,Non-necessary,2 Year(s),This cookie is set due to Twitter integration and sharing capabilities for the social media
+guest_id_marketing,Non-necessary,2 Year(s),Used to detect whether a user is logged into Twitter
+ads,Marketing,,Tracks if a visitor has clicked an ad before.
+lr_nw,Marketing,,Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.
+wordpress_eli,Marketing,,Reduces the display of ads for repeat visitors.
+__ssid,Functional,,For processing payment and to aid in fraud detection.
+__stripe_sid / __stripe_mid,Functional,,For processing payment and to aid in fraud detection.
+_longreads_prod_new,Functional,,"Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains."
+akm_mobile,Functional,,Stores whether a user has chosen to view the mobile version of a website.
+botdlang,Functional,,Used to track the language a user has selected to view popular blogs in.
+country_code,Functional,,Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor’s country.
+csrftoken,Functional,,Python/Ajax security cookie used on accounts.longreads.com.
+forterToken,Functional,,For processing payment and to aid in fraud detection.
+landingpage_currency,Functional,,Defines the currency displayed in WordPress.com landing pages.
+pd_dashboard,Functional,,Records last used folder in Crowdsignal dashboard so it can be reopened upon user’s next visit.
+PD_USER_AUTH,Functional,,Login cookie used to identify Crowdsignal user.
+sensitive_pixel_option,Functional,,Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.
+twostep_auth,Functional,,Set when the user is logged in using two factor authentication.
+wordpress_logged_in*,Functional,,Checks whether or not the current visitor is a logged in WordPress.com user.
+wp-settings-{user_id},Functional,,Persists a user’s wp-admin configuration.
+wp_sharing_{id},Functional,,Tracks whether or not a user has already performed an action.
+CONSENT [x3],Functional,2 years,Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+hex (32),Functional,Session,Used to manage server calls to the website's backend systems.
+incap_ses_# [x2],Functional,Session,Preserves users states across page requests.
+nlbi_#,Functional,Session,Used to ensure website security and fraud detection.
+visid_incap_# [x2],Functional,1 year,Preserves users states across page requests.
+___utmvc,Marketing,1 day,Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+___utmvc#,Marketing,1 day,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement."
+tr,Marketing,Session,Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+yt.innertube::nextId,Marketing,Persistent,Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+yt.innertube::requests,Marketing,Persistent,Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+_ga_#,Performance,2 years,Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+__epiXSRF,Functional,End of session,This cookie ensures the integrity and confidentiality of any POST/Submits.
+CivicaRegionModalCookie,Functional,90 days,This cookie is used by the ‘CivicaSelectedRegion’ cookie to determine whether the region value is set or not.
+CivicaSelectedRegion,Functional,90 days,Sets your region and remembers this on additional visits.
+TiPMix,Functional,1 day,This is used for load balancing.
+x-ms-routing-name,Functional,1 day,This is used for load balancing.
+_dc_gtm_UA-#,Functional,1 day,This cookie utilizes Google Tag Manager to load other scripts and code into our pages.
+AI_buffer,Functional,End of session,Set by Microsoft Application Insights to allow Microsoft to monitor the health and status of the server and website.
+AI_sentBuffer,Functional,End of session,Set by Microsoft Application Insights to allow Microsoft to monitor the health and status of the server and website.
+.AspNet.ApplicationCookie,Functional,31 minutes,This session cookie is used to store account information for the duration of the session..
+cf_use_ob,Functional,1 minute,"Used by the content network, Cloudflare, to improve page loading times."
+CivicaCSCookie,Functional,365 days,Used to support functionality on the website and remembers visitor group criteria in order to present relevant content.
+id,Marketing,52 days,This cookie builds a profile of your interests and shows you relevant ads on other sites.
+__widgetsettings,Marketing,Persistent,"Used to track and analyse advertising across the Twitter platform. It personalises your experience and remembers your preferences, such as customizing content and stories, as well as more relevant advertising"
+i/jot/syndication,Marketing,End of session,These cookies are set by Twitter as a result of the integration of our Twitter feed with our website.
+remember_checked,Marketing,1385 days,Used by Twitter as part of their embedded services. It determines whether you are logged into Twitter during your browser session.
+secure_session,Marketing,5037 days,Provides integration with the twitter website (visitor identification).
+twll,Marketing,1385 days,To track visitor information and for security authentication.
+dkv,Marketing,End of session,Set by YouTube to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+awxxxx,Marketing,30 days,This is set when you click on one of our links and is used to let the advertiser and us know the website from which you came.
+wmc,Marketing,10 years,Used by workable.com to assign a unique visitor ID.
+Facebook cookie- name not provided,Marketing,End of session,Session cookie used to serve advertising to users when logged into its services.
+_gali,Performance,1 day,Used to determine which links on a page are being accessed
+_gat_UA-#,Performance,End of session,Used to collect information about how you use the website.
+_gclxxxx,Performance,90 days,Google conversion tracking cookie.
+Collect,Performance,End of session,Sends data to Google Analytics about your device and behavior.
+ELQSTATUS,Performance,395 days,Recognises when you visit our website and tracks the pages you visit. We use this information to help improve our website
+iv,Performance,2 years,Used to collect information about how you use the website.
+is,Performance,30 minutes,Used to collect information about how you use the website.Used in conjunction with 'iv'
+_cookieConsent,Functional,1 year,Cookie Consent Disclaimer text (we cannot store disclaimer on user computer as we have not taken consent yet. this cookie should have value of only yes or no) (show the banner content using other programming / development)
+"_ga, _gat, _gat_newTracker",Functional,2 years,Tracking ID for the analytics
+mid_disclaimer,Functional,End of browser session,Cookie to track the site wide disclaimer is accepted. It is session cookie.
+.ASPXFORMSAUTH,Functional,End of browser session,This attribute is used to specify the HTTP cookie to use for authentication.
+.ASPXROLES,Functional,End of browser session,Cookies used to keep track of if the visitor has any permissions on the website. Only used for logged in users
+YouTube,Functional,End of browser session,For YouTube videos on page
+Brightcove,Functional,End of browser session,For Brightcove videos on page
+age_gate_access,Functional,End of browser session,Cookie to track the Age gate is accepted. It is session cookie
+error_reason,Functional,End of browser session,Cookie to track the error reason for the age gate form validation. It is session cookie.
+error_messages,Functional,End of browser session,Cookie to track the error messages for the age gate form. It is session cookie.
+_grecaptcha,Functional,Persistent,"This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website."
+CookieConsentBulkSetting-#,Functional,Persistent,Enables cookie consent across multiple websites
+sc-language,Functional,1 ano,Usado para lembrar a preferência de idioma selecionada pelo visitante.
+sw-locale,Functional,Nenhuma,Preferência de local selecionada pelo visitante.
+sw-locale-detected,Functional,Sessão,"Local do visitante, conforme detectado pelo servidor."
+taboola_session_id,Marketing,Sessão,Cria um ID de usuário temporário por sessão. um ID de usuário temporário por sessão
+taboola_fp_td_user_id,Marketing,1 ano,Indica que o usuário clicou em um item recomendado pelos Serviços da Taboola. Isso é usado para fins de denúncia e análise.
+auid,Marketing,90 dias,"Mantém o ID de publicidade do usuário em dispositivos móveis. Usado para rastrear ações de usuários, como cliques nas recomendações."
+RoktRecogniser,Marketing,Indefinido ou até ser removido,"Permite que o Rokt rastreie usuários únicos em dispositivos (que optaram por utilizar o widget do Rokt), o que nos permite otimizar nossas campanhas de marketing."
+_uetmsclkid,Marketing,90 dias,"Usado para capturar o ID de cliques da Microsoft a partir da URL do anúncio, melhorando o acompanhamento de conversões. Apenas nos EUA."
+sc_seen_popup,Marketing,1 ano,Usado para lembrar se um pop-up de lista de e-mails foi visto.
+lpv,Marketing,1 dia,Identifica a conversão do site ou anúncio da Pardot.
+Pardot,Marketing,Sessão,Usado para indicar uma sessão de visitante ativa enquanto ele estiver conectado como usuário no site da Pardot.
+visitor_id-hash,Marketing,1 ano,Usado para acompanhar o visitante até a conta correta da Pardot.
+X-PP-L7,Marketing,Sessão,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+X-PP-Silover,Marketing,9 horas,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+LANG,Marketing,1 dia,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+l7_az,Marketing,1 dia,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+x-pp-s,Marketing,Sessão,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+tsrce,Marketing,4 dias,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+nsid,Marketing,Sessão,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+AKDC,Marketing,9 horas,Oferece o envio de mensagem com opção de crédito via PayPal nos EUA.
+_sctr,Marketing,1 ano,Usado para determinar se uma tag de terceiros será usada no Pixel de anúncios do Snap.
+sc-cookies-accepted,Necessary,1 ano,Usado para determinar se um visitante aceitou os cookies.
+Marketing,Necessary,1 ano,Usado para salvar preferências de cookies de Marketing.
+Performance,Necessary,1 ano,Usado para salvar preferências de cookies de Desempenho e Analytics.
+Preferences,Necessary,1 ano,Usado para salvar preferências do cookie Preferences.
+sc-country,Necessary,1 dia,Usado para determinar o país de um visitante.
+bpazaws52gukakzc__*,Necessary,6 horas,Recurso de captcha para formulários.
+ngpskuephr,Necessary,Sessão,Usado para páginas protegidas que exigem acesso por login.
+Q4_ASPX_PUBLIC_{user},Necessary,Nenhuma,
+adtsgidr5,Necessary,4 horas,"Usado para proteção anti-CSRF, relacionado à inscrição de alertas de e-mail."
+giftfromsnap_session,Necessary,24 horas,Mantém dados para a sessão do usuário.
+"SSN-""[long-uid]”",Necessary,30 minutos,Somente quando o vídeo está sendo reproduzido. Vídeo do StreamShark.
+shopify-cart,Necessary,Nenhuma,Objeto de armazenamento local usado para armazenar itens adicionados a um carrinho e construir um URL de verificação da Shopify.
+_ga_{container-id},Performance,2 anos,Persiste o estado de sessão.
+_gat_UA-{property-id},Performance,1 minuto,Usado para limitar a taxa de solicitações.
+_scav2,Performance,30 dias,Usado para distinguir visitantes não autenticados.
+_scu,Performance,90 dias,Usado para distinguir visitantes não autenticados.
+OptanonAlertBox*,Functional,1 year,Used to store the cookie consent status of the user*
+OptanonConsent*,Functional,1 year,Used to store the cookie consent status of the user*
+local_language,Functional,Session,Used to save the users language preferences
+fe_typo_user*,Functional,Session,Used by the content Management System TYPO3 to store user preferences*
+cookie-agreed-categories,Functional,100 days,Used to store the cookie consent status of the user
+cookie_allow,Functional,1 year,Used to store the cookie consent status of the user
+cookie_instagram,Functional,48 hours,Used to store the third party consent status of the user
+wordpress_test,Functional,Session,Used to store the cookie consent status of the user
+disclmaimer_agree*,Functional,Session,"Used to store the consent status to the ""General Conditions of Use"""
+AjaXplorer*,Functional,Session,Cookie to support ajax based file syncing
+answeredMarketoForm,Functional,30 days,saves user interaction status
+displayMarketoForm,Functional,Session,saves user interaction status
+BIGipServernld102web-nginx-app_https,Functional,Session,used to deliver forms from go.symrise.com
+lumesse_language,Functional,Session,Cookie used by Saba Software Inc. to provide a digital application System. Used to save the users language settings
+SSN-{event_tracking_key}-1*,Functional,30 minutes,"Unique but anonymous key for the purpose of tracking and submitting player analytics events (watching session, browser, device, approximate geolocation) for the StreamShark Real Time Stats view.*"
+_utmb,Functional,30 minutes,Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.
+_utma,Functional,2 years,Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.
+_utmt,Functional,10 minutes,Used to throttle request rate.
+_utmc,Functional,Session,"Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit."
+_utmz,Functional,6 months,Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.
+_ga*,Functional,2 years,Used to distinguish users.*
+ak_bmsc,Functional,1 minute,Showing and loading Charts with real-time counts
+bm_sv,Functional,1 minute,Showing and loading Charts with real-time counts
+_gat_UA-xxxxxxxx-x*,Performance,1 minute,universal Google analytics ID*
+_gat*,Performance,1 minute,Google Analytics tracking Cookie used to identify users*
+_gid*,Performance,24 hours,Google Analytics tracking Cookie used to throttle the request rate*
+cookiePreferences,Functional,2 years,Registers cookie preferences of a user
+CookieConsentBulkTicket,Functional,1 year,Enables sharing cookie preferences across domains / websites
+userlang,Functional,1 year,Saves language preferences of user for a website
+cookieconsent_variant,Functional,1 year,Stores the variant of shown cookie banner
+cookieconsent_system,Functional,1 year,Cookie consent system cookie for saving user's cookie opt-in/out choices.
+cookieconsent_level,Functional,1 year,Cookie consent system cookie for storing the level of cookie consent.
+cookieconsent_seen,Functional,1 year,Used to support the GDPR / AVG compliant cookie consent system
+_ga_,Analytics,2 years,ID used to identify users
+_dc_gtm_,Analytics,1 minute,Used to monitor number of Google Analytics server requests
+AMP_TOKEN,Analytics,30 seconds till 1 year,"Contains a token code that is used to read out a Client ID from the AMP Client ID Service. By matching this ID with that of Google Analytics, users can be matched when switching between AMP content and non-AMP content.
+
+Reference: https://support.google.com/analytics/answer/7486764?hl=en"
+_gat_gtag_,Analytics,1 hour,Used to set and get tracking data
+_gac_,Marketing,90 days,Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.
+__utmx,Analytics,18 months,Used to determine whether a user is included in an A / B or Multivariate test.
+__utmxx,Analytics,18 months,Used to determine when the A / B or Multivariate test in which the user participates ends
+S1,Analytics,5 years,Comscore: statistical and analytical data
+C1,Analytics,5 years,Comscore: statistical and analytical data
+s_cc,Analytics,End of session (browser),Used to determine if browser of user accepts cookies or not
+s_sq,Analytics,End of session (browser),Used to register the previous link clicked by the user
+s_vi,Analytics,2 years,Contains a unique ID to identify a user
+s_fid,Analytics,5 years,Alternative cookie with unique user ID / timestamp when the s_vi cookie can not be set for technical reasons
+fid,Analytics,2 years,"If other visitor ID methods fail, Adobe sets a fallback cookie or uses a combination of IP address and user agent to identify the visitor."
+demdex,Marketing,180 days after last activity or 10 years when opting out,"Unique value with which Audience Manager can identify a user. Used, among others, for identification, segmentation, modeling and reporting purposes."
+dextp,Marketing,180 days after last activity ,Registers the date plus time (timestamp) on which a data synchronization was last performed by the Audience Manager.
+dst,Marketing,180 days after last activity or 10 years when opting out,Used to register a possible error message when sending data to a linked system.
+_dp,Marketing,30 seconds,Used to determine if browser of user accepts cookies or not
+aam_uuid,Marketing,1 month,Adobe Audience Manager - data management platform uses these cookies to assign a unique ID when users visit a website.
+AMCV_,Marketing,2 years,Adobe Experience Cloud uses a cookie to store a unique visitor ID that is used across Experience Cloud Solutions.
+AMCVS_,Marketing,Session,The AMCVS cookie serves as a flag indicating that the session has been initialized. Its value is always 1 and discontinues when the session has ended.
+mbox,Marketing,2 years,Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
+at_check,Functional,session,A simple test value used to determine if a visitor supports cookies. Set each time a visitor requests a page.
+renderid,Functional,session,This cookie is needed by the dispatcher (webserver) to distinguish between the different publisher server.
+s_ppv,Analytics,session,Stores information on the percentage of the page displayed
+s_tp,Analytics,session,This lets us know how much of the page you viewed.
+TPC,Marketing,14 days,Used to determine if browser of user accepts third party cookies or not
+C,Marketing,60 days till 3650 days,Used to determine if browser of user accepts cookies or not
+uid,Marketing,60 days,Contains a unique ID to identify a user
+cid,Marketing,60 days,Unique value to be able to identify cookies from users (same as uid)
+GCM,Marketing,1 day,Checks if a new partner cookie synchronozation is required
+CM,Marketing,1 day,Checks if a new partner cookie synchronozation is required (cookie set by ad server)
+CM14,Marketing,1 day,Checks if a new partner cookie synchronozation is required (cookie set during cookie synchronozation )
+token,Marketing,End of session (browser),Security token for opt out functionality
+otsid,Marketing,365 days,Opt out cookie for specific advertiser
+adtrc,Marketing,7 days,Used to determine if browser related information has been collected
+SR<RotatorID>,Marketing,1 day,"Unique value that records info about consecutive ads - includes: total impressions, daily impressions, total clicks, daily clicks, and last impression date"
+CT<TrackingSetupID>,Marketing,1 hour,Identifies the last click membership for third-party pixels on advertiser's pages
+EBFCD<BannerID>,Marketing,7 days,Registers daily max. number of impressions (frequency cap) for expanding advertisements (expandables)
+EBFC<BannerID>,Marketing,7 days,Registers max. total number of impressions (frequency cap) for expanding advertisements (expandables)
+CFFC<TagID>,Marketing,7 days,Registers max. number of impressions (frequency cap) for compound banners
+DigiTrust.v1.identity,Marketing,7 days,"Unique value with which the user is identified by DigiTrust, an independent industrial body"
+lu,Marketing,2 year,"Used to record whether the person chose to remain logged in
+
+Contents: User ID and miscellaneous log in information (e.g., number of logins per account, state of the ""remember me"" check box, etc.)"
+xs,Marketing,90 days,"Used in conjunction with the c_user cookie to authenticate your identity to Facebook.
+
+Contents: Session ID, creation time, authentication value, secure session state, caching group ID"
+c_user,Marketing,90 days,"Used in conjunction with the xs cookie to authenticate your identity to Facebook.
+
+Contents: User ID"
+m_user,Marketing,90 days,"Used to authenticate your identity on Facebook's mobile website.
+
+Contents: Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator"
+pl,Marketing,90 days,"Used to record that a device or browser logged in via Facebook platform.
+
+Contents: Y/N"
+dbln,Marketing,2 years,"Used to enable device-based logins
+
+Contents: Login authentication values"
+aks,Marketing,30 days,"Determines the login state of a person visiting accountkit.com
+
+Contents: Account kit access token"
+aksb,Marketing,30 minutes,"Authenticates logins using Account Kit
+
+Contents: Request time value"
+sfau,Marketing,1 day,"Optimizes recovery flow after failed login attempts
+
+Contents: Encrypted user ID, contact point, time stamp, and other login information"
+ick,Marketing,2 years,Stores an encryption key used to encrypt cookies
+csm,Marketing,90 days,Insecure indicator
+s,Marketing,90 days,"	
+Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies."
+oo,Marketing,5 years,Ad optout cookie
+ddid,Marketing,28 days,Used to open a specific location in an advertiser's app upon installation
+_fbc,Marketing,2 years,Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+js_ver,Marketing,7 days,Records the age of Facebook javascript files.
+rc,Marketing,7 days,Used to optimize site performance for advertisers
+campaign_click_url,Marketing,30 days,Records the Facebook URL that an individual landed on after clicking on an ad promoting Facebook
+ID,Marketing,2 months,"This cookie is used for targeting, analyzing and optimisation of ad campaigns in DoubleClick/Google Marketing Suite "
+__gads,Marketing,various,"This cookie is used by Google for a variety of purposes (e.g., ensuring Frequency Caps work correctly). It includes AdSense if you have AdSense enabled. This cookie is associated with the DoubleClick for Publishers service from Google. Its purpose is to monitor the showing of advertisements on the site, for which the owner may earn some revenue. The main purpose of this cookie is targeting/advertising."
+GoogleAdServingTest,Marketing,session,Used to register what ads have been displayed to the user.
+fl_inst,Marketing,7 days,Used to check if Flash plugin is enabled in browser of user.
+pvc2,Marketing,13 months,Contains information related to ad impressions.
+pcc2,Marketing,13 months,Contains information related to ad impressions.
+trc,Marketing,13 months,Contains information related to ad impressions.
+tuuid,Marketing,13 months,Unique value to identify individual users.
+ad2,Marketing,13 months,Contains information related to ad impressions.
+MR,Marketing,6 months,Used to collect information for analytics purposes.
+MUIDB,Marketing,1 year,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes."
+MC1,Marketing,1 year,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes."
+MSFPC,Marketing,1 year,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes."
+_uetsid,Marketing,30 minutes,This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.
+_uetvid,Marketing,16 days,This is a cookie utilised by Microsoft Bing Ads and is a tracking cookie. It allows us to engage with a user that has previously visited our website.
+ANON,Marketing,1 year,"Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account."
+ANONCHK,Marketing,10 minutes,Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+CC,Marketing,1 year,Contains a country code as determined from your IP address.
+PPAuth,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+MSPAuth,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+MSNRPSAuth,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+KievRPSAuth,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+WLSSC,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+MSPProf,Functional,5 years,Helps to authenticate you when you sign in with your Microsoft account.
+MC0,Functional,End of session (browser),Detects whether cookies are enabled in the browser.
+MS0,Functional,End of session (browser),Identifies a specific session.
+NAP,Marketing,1 year,"Contains an encrypted version of your country, postal code, age, gender, language and occupation, if known, based on your Microsoft account profile."
+MH,Marketing,End of session (browser),"Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected."
+childinfo,Marketing,5 years,Contains information that Microsoft account uses within its pages in relation to child accounts.
+kcdob,Marketing,5 years,Contains information that Microsoft account uses within its pages in relation to child accounts.
+kcrelid,Marketing,5 years,Contains information that Microsoft account uses within its pages in relation to child accounts.
+kcru,Marketing,5 years,Contains information that Microsoft account uses within its pages in relation to child accounts.
+pcfm,Marketing,5 years,Contains information that Microsoft account uses within its pages in relation to child accounts.
+x-ms-gateway-slice,Functional,End of session (browser),Identifies a gateway for load balancing.
+ToptOut,Marketing,1 year,Records your decision not to receive interest-based advertising delivered by Microsoft.
+ACH01,Marketing,End of session (browser),Maintains information about which ad and where the user clicked on the ad.
+AADSSO,Functional,End of session (browser),Microsoft Microsoft Online Authentication Cookie
+brcap,Functional,1 year,Microsoft Microsoft Online Authentication Cookie
+SRM_B,Functional,1 year," Collected user data is specifically adapted to the user or device. The usercan also be followed outside of the loaded website, creating a picture of the visitor's behavior."
+buid,Functional,1 month,This cookie is used by Microsoft to securely verify your login information
+esctx,Functional,session,This cookie is used by Microsoft to securely verify your login information
+fpc,Functional,session,This cookie is used by Microsoft to securely verify your login information
+stsservicecookie,Functional,session,Cookie for Azure Active Directory B2C-verification
+ARRAffinity,Functional,1 year,"When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that  requests from one visitor's browsing session are always handled by the same server in the cluster."
+ARRAffinitySameSite,Functional,1 year,"When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that  requests from one visitor's browsing session are always handled by the same server in the cluster."
+__AntiXsrfToken,Functional,session,This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website. CSRF attacks exploit the trust that a site has in a user's browser.
+.ASPXANONYMOUS,Functional,session,Created by ASP.Net. This cookie configures anonymous identification for application authorization. This is required to identify entities that are not authenticated when authorization is required.
+.ASPXAUTH,Functional,session,Created by ASP.Net. .ASPXAUTH is a cookie to identify if the user is authenticated( As user's identity has been verified)
+nSGt-,Functional,session,This cookie is used by Microsoft to securely verify your Sharepoint login information
+RpsContextCookie,Functional,session,This cookie is used by Microsoft to securely verify your Sharepoint login information
+ASLBSACORS,Functional,Session,Microsoft App Service and Front Door Affinity Cookies. These cookies are used to direct your browser to use the appropriate backend server.
+ASLBSA,Functional,Session,Microsoft App Service and Front Door Affinity Cookies. These cookies are used to direct your browser to use the appropriate backend server.
+ASPSESSIONID,Functional,Session,Browsing session: the asterisks identify an alphanumerical code that varies from session to session in automatic mode.
+VisitorStorageGuid,Functional,Session,This cookie is used by Azure Apps to keep a user session on the same server.
+ai_session,Functional,Session,This is a unique anonymous session identifier cookie.
+AADNonce.forms,Functional,session,Unique identifier of one authentication session to prevent replay.
+DcLcid,Functional,90 days,Saves language preference.
+_clck,Analytics,1 year," This cookie is installed by Microsoft Clarity to store information of how visitors use a website and help in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form."
+_clsk,Analytics,session,"This cookie is installed by Microsoft Clarity to store information of how visitors use a website and help in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form."
+personalization_id,Marketing,2 years,"Unique value with which users can be identified by Twitter. Collected information is used to be personalize Twitter services, including Twitter trends, stories, ads and suggestions."
+ct0,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+gt,Marketing,1 year,"Twitter uses these cookies to support plugin integration with our website. If you use the Tweet plugin and log into your Twitter account, Twitter will set some of these cookies to remember that you are logged in. Twitter will also use cookies for their own analytics purposes."
+__insp_pad,Analytics,End of session (browser),This cookie contains the page number of the session recording.
+__insp_sid,Analytics,End of session (browser),This cookie contains the ID of the Inspectlet session that is being recorded.
+__insp_ref,Analytics,End of session (browser),The cookie contains the referrer source/URL
+__insp_scpt,Analytics,End of session (browser),This cookie contains an integer that allows us to know if the screen capture was triggered or not.
+__insp_nv,Analytics,End of session (browser),This cookie contains a value that allows Inspectlet to know if this user is a new visitor or a returning visitor.
+__insp_wid,Analytics,End of session (browser),This cookie contains an uniqe user ID provided by the website if set up.
+__insp_uid,Analytics,1 year,This cookie contains random ID assigned to a visitor.
+__insp_dct,Analytics,Session,Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+CTK,Analytics,17 years,Contains information related to registering (counting) a job application via a job listing on indeed.com.
+ctkgen,Analytics,1 day,Contains information related to registering (counting) a job application via a job listing on indeed.com.
+INDEED_CSRF_TOKEN,Analytics,End of session (browser),Contains information related to registering (counting) a job application via a job listing on indeed.com.
+jasx_pool_id,Analytics,End of session (browser),Contains information related to registering (counting) a job application via a job listing on indeed.com.
+pagead/conv/%INTEGER%,Analytics,End of session (browser),Contains information related to registering (counting) a job application via a job listing on indeed.com.
+tv_spot_tracker,Analytics,End of session (browser),Contains information about the timeslot of a running TV ad
+cookie-consent-io,Functional,1 year,Registers cookie preferences of a user
+cookie-consent-io-timestamp,Functional,30 days,Registers user activity timestamp
+cookie-consent-io-gdpr,Functional,1 year,Register anonymous consent identifier for GDPR consent compliance
+__adm_ui,Marketing,1 year,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences."
+__adm_uiex,Marketing,1 year,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences."
+__adm_usyncc,Marketing,5 days,"Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+__cfruid,Functional,session,"Used by the content network, Cloudflare, to identify trusted web traffic."
+__uin_bw,Marketing,1 month,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement."
+__uir_bw,Marketing,1 day,Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+__uis,Marketing,29 days,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences."
+HAPLB5S,Marketing,29 days,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences."
+_dbefe,Marketing,Session,Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+_hjIncludedInSample,Analytics,365 days,Hotjar cookie. This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
+_hjDoneTestersWidgets,Analytics,365 days,Hotjar cookie. This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.
+_hjMinimizedTestersWidgets,Analytics,365 days,Hotjar cookie. This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.
+_hjSession_,Functional,30 minutes,A cookie that holds the current session data. This ensues that subsequent requests within the session window will be attributed to the same Hotjar session.
+_hjSessionUser_,Functional,365 days,"Hotjar cookie that is set when a user first lands on a page with the Hotjar script. It is used to persist the Hotjar User ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID."
+_kuid_,Marketing,6 months,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+ac_enable_tracking,Marketing,29 days,This cookie is associated with Active Campaign and is set to confirm that tracking has been enabled for the website. Tracking is used to create reports of our web traffic and improve the user experience of the website.
+ASP.NET_SessionId_Fallback,Functional,Session,"Fallback session cookie to support older browsers that haven't implemented the Secure flag, in modern evergreen browsers this cookie is never set as it haven't got the Secure flag."
+trkCode,Marketing,1 year,This cookie is used by LinkedIn to support the functionality of adding a panel invite labeled 'Follow Us'
+trkInfo,Marketing,1 year,This cookie is used by LinkedIn to support the functionality of adding a panel invite labeled 'Follow Us'
+li_oatml,Marketing,30 days,Collects information about how visitors use our site.
+liap,Marketing,90 days,Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+spectroscopyId,Marketing,session,"These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc."
+li_rm,Functional,1 year,Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device
+GCLB,Functional,Session,"This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers."
+AWSELBCORS,Functional,Session,"For continued stickiness support with CORS use cases after the Chromium update, we are creating additional stickiness cookies for each of these duration-based stickiness features named AWSELBCORS (ALB)."
+AWSELB,Functional,Session,AWS Classic Load Balancer Cookie: Load Balancing Cookie: Used to map the session to the instance.
+CMST,Marketing,1 day,"Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads."
+cookieJartestCookie,Marketing,1 day,Pending
+jpxumaster,Marketing,1 month,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+jpxumatched,Marketing,1 month,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+PugT,Marketing,29 days,Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+Kiyohnl,Functional,1 year,Cookies are associated with the use of Kiyoh to collect and display customer reviews
+id5,Marketing,1 day,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers."
+cip,Marketing,1 day,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+car,Marketing,1 day,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+callback,Marketing,1 day,"Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement."
+cnac,Marketing,1 day,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+cf,Marketing,1 day,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers."
+gdpr,Functional,1 day,Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-en try.
+UIDR,Marketing,2 years,"Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences."
+SEUNCY,Marketing,179 days,Registers a unique ID that identifies the user’s device for return visits.
+OAID,Marketing,1 year,"This cookie is used by the ad server software to manage which ads are placed on our website, and to capture clicks on those ads. Information is collected in anonymous form, and we do not use this data to deliver specific content, advertising or otherwise, to your browser."
+ljt_reader,Marketing,1 year,"Collects data related to reader interests, context, demographics and other information on behalf of the Lijit platform with the purpose of finding interested users on websites with related content."
+rek_content,Marketing,6 days,Pending
+um,Marketing,90 days,To enable the bidding process.
+umeh,Marketing,90 days,To enable the bidding process.
+BSWtracker,Marketing,694 days,"Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement."
+_rxuuid,Marketing,1 year,"Sets a unique ID for the visitor, with which external advertisers can target the visitor with relevant advertisements. This linking service is provided by third-party advertising hubs, facilitating real-time bidding for advertisers."
+AA003,Marketing,3 months,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement."
+ATN,Marketing,3 months,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement."
+tt_viewer,Marketing,1 year,Teads uses a “tt_viewer” cookie to help personalize the video ads you see on our partner websites.
+cfid,Functional,1 day,"This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted"
+cftoken,Functional,1 day,"This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted"
+gckp,Marketing,1 year,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+um2,Marketing,2 years,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers."
+tuuid_lu,Marketing,3 months,"Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times."
+uu,Marketing,1 year,Used to target ads by registering the user's movements across websites.
+betweendigital.com,Marketing,10 years,Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+ss,Functional,10 years,Necessary for the functionality of the website's chat-box function.
+st_csd,Marketing,1 year,Date of the last cookie-syn
+st_cs,Marketing,1 year,Unique identifiers of DSPs
+TestIfCookieP,Marketing,2 years,SmartAdServer is a remote ad serving system. Sites and Advertisers are using the system to manage the delivery of their online advertising campaigns. They can collect anonymous statistical data on their visitors to follow the delivery of their campaign and to increase their performance.
+pid,Marketing,2 years,SmartAdServer is a remote ad serving system. Sites and Advertisers are using the system to manage the delivery of their online advertising campaigns. They can collect anonymous statistical data on their visitors to follow the delivery of their campaign and to increase their performance.
+.AspNetCore.Antiforgery.,Functional,Session,Anti-forgery cookie is a security mechanism to defend against cross-site request forgery (CSRF) attacks.
+unruly_m,Marketing,6 days,Pending
+KRTBCOOKIE_,Marketing,29 days,Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+csync,Marketing,1 day,Optimises ad display based on the user's movement combined and various advertiser bids for displaying user ads.
+lidid,Marketing,2 years,Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.
+f5_cspm,Analytics,Session,"This cookie name is associated with the BIG-IP product suite from company F5. It is used to monitor page load speed, as part of site performance monitoring."
+tluid,Marketing,3 months,This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+__zlcmid,Marketing,1 year,Live chat widget on Slack contact page (ZopIM)
+i,Marketing,1 year,"Registers user data, such as IP address, geographical location, websites visited and on which advertisements the user has clicked, with the aim of optimizing the display of advertisements based on user relocation on websites that use the same advertising network."
+dpm,Marketing,179 days,Pending
+ssc,Functional,2 years,AddThis - Cookie related to an AddThis sharing button available on the website
+na_id,Functional,2 years,AddThis - Cookie related to an AddThis sharing button available on the website
+na_tc,Functional,2 years,AddThis - Cookie related to an AddThis sharing button available on the website
+ouid,Functional,2 years,AddThis - Cookie related to an AddThis sharing button available on the website
+DG_HID,Marketing,30 days,Pending
+DG_IID,Marketing,30 days,Pending
+DG_SID,Marketing,30 days,Pending
+DG_UID,Marketing,30 days,Pending
+DG_ZID,Marketing,30 days,Pending
+DG_ZUID,Marketing,30 days,Pending
+fonts-loaded,Functional,30 days,This cookie checks and remembers whether you have the font used by funda. Remembering this check makes visiting the website faster.
+html-classes,Functional,30 days,Remembering how the website is displayed to adjust the appearance of the site to the environment and browser used by the user. This ensures that the site loads faster on a subsequent visit.
+SNLB2,Functional,30 days,Pending
+lz_last_visit,Functional,1 Year,"Last Visit (Timestamp), used to determine when the website visitor browsed the website the last time."
+lz_userid,Functional,1 Year,Sets up a unique ID which is used to generate statistical data about the website visitor's usage of the website.
+lz_visits,Functional,1 Year,"Number of visits, is used to identify how often the website visitor already visited the website."
+.secureclient,Functional,Session,Pending
+.securesession,Functional,Session,Pending
+.stateflags,Functional,Session,Pending
+.auth,Functional,Session,Pending
+advst_uid_11,Marketing,6 months,Pending
+DISPATCHER,Marketing,6 months,Pending
+DSP_UID,Marketing,9 days,Pending
+picreel_tracker__visited,Analytics,Unlimited,"Used for statistical purposes when counting the number of pages, the user visited"
+picreel_tracker__first_visit,Analytics,Unlimited,"Used for statistical purposes, keeping the date of the first visit"
+picreel_tracker__page_views,Analytics,Unlimited,Pending
+picreel_new_price,Analytics,Unlimited,Pending
+__auc,Analytics,1 year,Used to track and report information to the Alexa analytics
+ads_prefs,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+auth_token,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+csrf_same_site,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+csrf_same_site_set,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+dnt,Marketing,2 years,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website."
+eu_cn,Marketing,2 years,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website."
+external_referer,Marketing,2 years,"Our Website uses Twitter buttons to allow our visitors to follow our promotional Twitter feeds, and sometimes embed feeds on our Website."
+kdt,Marketing,2 years,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website."
+remember_checked_on,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. These cookies do not provide us with any confidential information relating to your account."
+rweb_optin,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. These cookies do not provide us with any confidential information relating to your account."
+syndication_guest_id,Marketing,2 years,Used to collect information about users browsing behaviour for marketing purposes including digital display and social media advertising.
+twid,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+tfw_exp,Marketing,2 years,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account."
+__asc,Analytics,1 year,A cookie set by Trustpilot if you click the read more widget
+__insp_norec_sess,Analytics,1 year,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.
+__insp_slim,Analytics,1 year,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.
+__insp_targlpt,Analytics,1 year,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.
+__insp_targlpu,Analytics,1 year,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.
+__RequestVerificationToken,Functional,session,"This is an anti-forgery cookie set by web applications built using ASP.NET MVC technologies. It is designed to stop unauthorised posting of content to a website, known as Cross-Site Request Forgery."
+__stid,Analytics,1 year,"The __stid cookie is set as part of the ShareThis service and monitors user-activity, e.g. Web pages viewed, navigation from page to page, time spent on each page etc."
+__uin_mm,Marketing,44 days,These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+__uir_mm,Marketing,14 days,These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+_cc_aud,Marketing,269 days,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising. "
+_cc_cc,Marketing,session,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising. "
+_cc_id,Marketing,269 days,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising."
+ab,Marketing,1 year,This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+bkdc,Marketing,179 days,"Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network."
+bku,Marketing,179 days,"Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network."
+everest_g_v2,Marketing,2 years,"Created after a user initially clicks a client's ad, and used to map the current and subsequent clicks with other events on the client's website"
+mt_misc,Marketing,30 days,MediaMath uses this cookie to hold attributes about the browser for fraud prevention and other technical optimizations.
+mt_mop,Marketing,30 days,MediaMath uses this cookie to synchronize the visitor ID with a limited number of trusted exchanges and data partners
+pl_user_id,Marketing,3 months,This cookie registers data on the visitor. The information is used to optimize advertisement relevance.
+pxrc,Marketing,2 months,This cookie registers non-personal data on the visitor. The information is used to optimize advertisement relevance.
+rlas3,Marketing,1 year,"Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads."
+TapAd_DID,Marketing,2 months,"Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user."
+TapAd_TS,Marketing,2 months,"Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user."
+TDCPM,Marketing,1 year,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+TDID,Marketing,1 year,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+uid-bp-,Marketing,2 months,Pending
+uuidc,Marketing,1 year,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads."
+zc,Marketing,10 years,Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+amplitude_id,Marketing,1 year,These cookies are used by the TrustPilot service to identify you and enable you to leave reviews of our products and services.
+csrf-canary,Functional,session,These cookies are used by the TrustPilot service to identify you and enable you to leave reviews of our products and services. 
+3pi,Marketing,3 months,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers."
+am-uid,Marketing,2 years,This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+_cc_dc,Marketing,session,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising."
+bkpa,Marketing,179 days,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers."
+_ljtrtb_,Marketing,1 year,"These cookies are used temporarily when multiple partners pass us their ID simultaneously. To avoid technical conflicts that arise from accessing the ljtrtb cookie for multiple partners at the same time, we store each partner’s ID in a separate cookie and then consolidate these IDs into the ljtrtb cookie when it’s available."
+ljtrtb,Marketing,1 year,Enables us to help our advertising partners make decisions about displaying an advertisement to you. We store the ID that each partner uses to identify you and pass that information to the partner when a website requests an advertisement from us.
+uuid,Marketing,1 year,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads."
+_pinterest_cm,Functional,347 days,Pinterest cookie ensures that you can share our website pages via Pinterest by means of the 'share' button
+_pinterest_sess,Functional,session,"session cookie (expires after your session) which collects anonymous data about a user's visit to the website, such as the number of visits, average time spent on the site and which pages have been loaded in order to personalise and improve the Pinterest service."
+_pin_unauth,Marketing,1 day,Registers a unique ID that identifies and recognizes the user. Is used for targeted advertising.
+_pinterest_ct_ua,Marketing,session,This cookieis a third party cookie which groups actions for users who cannot be identified by Pinterest.
+sessionFunnelEventLogged,Marketing,1 day,A generic technical cookie used for storing user session identifier in web applications
+_routing_id,Marketing,1 day,Allows users to share pictures via Pinterest / the Pin It button. Pinterest can collect statistical information about usage of their service.
+Nop.customer,Functional,1 month,Customer cookie. Used to identifier guest customers.
+NopCommerce.RecentlyViewedProducts,Functional,10 days,Recently viewed products cookie. Stores a list of the recently viewed products
+NOPCOMMERCE.AUTH,Functional,session,Forms authentication cookie. Used for authenticating registered customers.
+tsrvid,Functional,1 year,Feedback company review cookie
+SID,Marketing,2 years,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search."
+SIDCC,Marketing,2 years,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search."
+DV,Marketing,1 year,This cookies is used to collect website statistics and track conversion rates and Google ad personalisation
+form_key,Functional,session,A security measure that appends a random string to all form submissions to protect the data from Cross-Site Request Forgery (CSRF).
+mage-cache-sessid,Functional,session,"The value of this cookie triggers the cleanup of local cache storage. When the cookie is removed by the backend application, the Admin cleans up local storage, and sets the cookie value to true."
+mage-cache-storage,Functional,session,Local storage of visitor-specific content that enables ecommerce functions.
+mage-cache-storage-section-invalidation,Functional,session,Forces local storage of specific content sections that should be invalidated.
+mage-messages,Functional,1 year,"Tracks error messages and other notifications that are shown to the user, such as the cookie consent message, and various error messages. The message is deleted from the cookie after it is shown to the shopper."
+mage-translation-file-version,Functional,session,Tracks the version of translations in local storage. Used when Translation Strategy is configured as Dictionary (Translation on Storefront side).
+mage-translation-storage,Functional,session,Stores translated content when requested by the shopper. Used when Translation Strategy is configured as Dictionary (Translation on Storefront side).
+product_data_storage,Functional,session,Stores configuration for product data related to Recently Viewed / Compared Products.
+recently_compared_product,Functional,session,Stores product IDs of recently compared products.
+recently_compared_product_previous,Functional,session,Stores product IDs of previously compared products for easy navigation.
+recently_viewed_product,Functional,session,Stores product IDs of recently viewed products for easy navigation.
+recently_viewed_product_previous,Functional,session,Stores product IDs of recently previously viewed products for easy navigation.
+user_allowed_save_cookie,Functional,session,Indicates if a customer is allowed to use cookies.
+external_no_cache,Functional,session,A flag that indicates if caching is disabled.
+persistent_shopping_cart,Functional,session,Stores the key (ID) of persistent cart to make it possible to restore the cart for an anonymous shopper.
+stf,Functional,session,Records the time messages are sent by the SendFriend (Email a Friend) module.
+pollN,Functional,session,A poll ID that indicates if a vote has occurred.
+frontend,Functional,session,Session ID
+guest-view,Functional,session,Allows guests to edit their orders.
+mage-banners-cache-storage,Functional,1 hour,Stores banner content locally to improve performance.
+searchReport-log,Functional,1 year,"Magento, used to log information about searching"
+private_content_version,Functional,1 year,"Appends a random, unique number and time to pages with customer content to prevent them from being cached on the server."
+X-Magento-Vary,Functional,session,X-Magento-Vary cookie is used by Magento 2 system to highlight that version of a page requested by a user has been changed. It allows having different versions of the same page stored in cache e.g. Varnish.
+section_data_ids,Functional,session,"Stores customer-specific information related to shopper-initiated actions such as display wish list, checkout information, etc."
+dsps:,Marketing,90 days,Service to display targeted advertising to visitors.
+TapAd_3WAY_SYNCS,Marketing,2 months,Pending
+_mb,Marketing,session,Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+componentType,Functional,session,"componentType is a session cookie, used for correct recording the type of the page (frontpage, single page, blog etc)"
+componentStyle,Functional,session,"componentStyle is a session cookie, used for setting the proper template in compliance with visited type of the page"
+nrid,Functional,2 years,"This cookie is used to remember a user's choice about cookies on the website. Where users have previously indicated a preference, that user’s preference will be stored in this cookie."
+sat_track,Functional,90 days,The sat_track cookie is a part of Adobe Analytics. It controls the enabling and disabling of cookies and whether they are loaded onto the site.
+cookieconsent_status,Functional,1 year,This cookie is used to remember if you have consented to the use of cookies on this website.
+cookieconsent_page,Functional,session,Page where the user complies to the cookie consent
+koitk,Marketing,3 years,Collects data on visitors behavior and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+__ss_referrer,Marketing,6 hours,"This cookie contains information about where the visitor came from, called the source for the visit."
+__ss_tk,Marketing,25 years,This is Sharspring’s token cookie which enables user tracking. It ensures that the visit to website is connected to the user independent of the session and the source.
+__ss,Marketing,30 minutes,This cookie is storing the session ID for your visit. It is used in combination with _ss_tk to group website visits in reports for a single user.
+_pk_id,Analytics,13 months,Used to store a few details about the user such as the unique visitor ID
+_pk_ref,Analytics,6 months,"Used to store the attribution information, the referrer initially used to visit the website"
+_pk_ses,Analytics,30 minutes,Short lived cookies used to temporarily store data for the visit
+_pk_cvar,Analytics,30 minutes,Short lived cookies used to temporarily store data for the visit
+_pk_hsr,Analytics,30 minutes,Short lived cookies used to temporarily store data for the visit
+_pk_testcookie,Analytics,session,Cookie is created and should be then directly deleted (used to check whether the visitor’s browser supports cookies)
+mtm_consent,Analytics,forever,Cookie is created with no expiry date to forever remember that consent was given by the user.
+_wepublishGa,Analytics,2 years,ID used to identify users
+_wepublishGa_gid,Analytics,24 hours,ID used to identify users for 24 hours after last activity 24 hours
+optimizelyEndUserId,Marketing,6 months,Stores a visitor's unique Optimizely identifier. It's a combination of a timestamp and random number. No other information about you or your visitors is stored inside.
+optimizelyRedirectData,Marketing,5 seconds,"After Optimizely has executed a redirect experiment, stores various data from the original page so that Optimizely still has access to it on the new page."
+optimizelyDomainTestCookie,Marketing,6 months,"When Optimizely loads a URL, the snippet places the cookie to get the current domain, for the purpose of whether cross-domain syncing is possible. If successful, the cookie is immediately removed. "
+optimizelyOptOut,Marketing,10 years,Stores a boolean indicating whether the visitor has opted out of participating in Optimizely-powered experimentation.
+wwwchannelme_z_sid,Functional,session,The cookie is used when using the co-browsing feature.
+app_ts,Marketing,1 year,Used by adscience.nl to display remarketing campaigns.
+viewer,Marketing,1 year,Used by adscience.nl to measure visitor numbers and information and use it to optimize marketing campaigns.
+spx_ts,Marketing,1 year,These cookies ensure that relevant advertisements are displayed on external websites.
+adx_ts,Marketing,1 year,These cookies ensure that relevant advertisements are displayed on external websites.
+id_ts,Marketing,1 year,These cookies ensure that relevant advertisements are displayed on external websites.
+euconsent,Marketing,1 year,Cookie compliance check
+SSR-caching,Functional,session,Indicates how a site was rendered
+smSession,Functional,2 weeks,Identifies logged in site members
+svSession,Marketing,2 years,Identifies unique visitors and tracks a visitor’s sessions on a site
+ForceFlashSite,Functional,session,When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site
+hs,Functional,session,Security
+bSession,Functional,30 minutes,Used for system effectiveness measurement
+TS01,Functional,session,Used for security and anti-fraud reasons
+fedops.logger.sessionId,Functional,12 months,Used for stability/effectiveness measurement
+wixLanguage,Functional,12 months,Used on multilingual websites to save user language preference
+_ab,Functional,session,Used in connection with access to admin.
+_secure_session_id,Functional,session,Used in connection with navigation through a storefront.
+Cart,Functional,14 days,Used in connection with shopping cart.
+cart_ts,Functional,14 days,Used in connection with checkout.
+checkout_token,Functional,14 days,Used in connection with checkout.
+Secret,Functional,14 days,Used in connection with checkout.
+Secure_customer_sig,Functional,2 years,Used in connection with customer login.
+storefront_digest,Functional,2 years,Used in connection with customer login.
+_shopify_u,Functional,2 years,Used to facilitate updating customer account information.
+_tracking_consent,Marketing,2 years,Tracking preferences.
+_landing_page,Marketing,2 years,Track landing pages.
+_orig_referrer,Marketing,2 years,Track landing pages.
+_s,Analytics,2 years,Shopify analytics.
+_shopify_fs,Analytics,2 years,Shopify analytics.
+_shopify_s,Analytics,2 years,Shopify analytics.
+_shopify_sa_p,Marketing,2 years,Shopify analytics relating to marketing & referrals.
+_shopify_sa_t,Marketing,2 years,Shopify analytics relating to marketing & referrals.
+_shopify_uniq,Analytics,2 years,Shopify analytics.
+_shopify_visit,Analytics,2 years,Shopify analytics.
+_shopify_y,Analytics,2 years,Shopify analytics.
+_y,Analytics,2 years,Shopify analytics.
+tracked_start_checkout,Analytics,2 years,Shopify analytics relating to checkout.
+ki_r,Analytics,2 years,Shopify analytics.
+ki_t,Analytics,2 years,Shopify analytics.
+_Brochure_session,Analytics,2 years,Used in connection with browsing through site.
+__hs_opt_out,Functional,13 months,This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again.
+__hs_do_not_track,Functional,13 months,This cookie can be set to prevent the tracking code from sending any information to HubSpot.
+__hs_initial_opt_in,Functional,7 days,This cookie is used to prevent the banner from always displaying when visitors are browsing in strict mode.
+hs_ab_test,Functional,session,This cookie is used to consistently serve visitors the same version of an A/B test page they’ve seen before.
+hs-messages-is-open,Functional,30 minutes,This cookie is used to determine and save whether the chat widget is open for future visits.
+hs-messages-hide-welcome-message,Functional,1 day,This cookie is used to prevent the chat widget welcome message from appearing again for one day after it is dismissed.
+__hsmem,Functional,1 year,This cookie is set when visitors log in to a HubSpot-hosted site.
+hs-membership-csrf,Functional,session,This cookie is used to ensure that content membership logins cannot be forged.
+hs_langswitcher_choice,Functional,2 years,This cookie is used to save the visitor's selected language choice when viewing pages in multiple languages.
+messagesUtk,Marketing,13 months,"This cookie is used to recognize visitors who chat with you via the chatflows tool. If the visitor leaves your site before they're added as a contact, they will have this cookie associated with their browser."
+renderCtx,Functional,session,Used to deliver requested pages and content based on a user's navigation.
+pctrk,Analytics,session,Used to count page views by unauthenticated users against license usage.
+force-stream,Functional,3 hours,Used to properly route server requests within Salesforce infrastructure for sticky sessions.
+BrowserId_sec,Functional,1 year,Used to log secure browser sessions/visits for internal-only product analytics.
+force-proxy-stream,Functional,3 hours,Used to ensure client requests hit the same proxy hosts and are more likely to retrieve content from cache.
+QCQQ,Functional,session,Used to detect the official login page for Forced Login POST detection.
+sid_Client,Functional,session,Used to validate orgid and userid on the client side.
+idccsrf,Functional,3 months,Used for SSO authentication as CSRF protection.
+rsid,Functional,session,Used for an admin user to 'log in as' one of their org user.
+rsid2,Functional,session,Used for an admin user to 'log in as' one of their org portal user.
+RRetURL,Functional,session,Used for 'log in as' to return to original page.
+RRetURL2,Functional,session,Used for portal 'log in as' to return to original page.
+alohaEpt,Functional,90 sec,Used to log page load EPT (Experience Page Time) for Visualforce (Classic UI) pages.
+clientSrc,Functional,session,Used to validate the IP from where a user logs in.
+oinfo,Marketing,3 months,"Used to track the State, Edition and orgID of a customer's org."
+autocomplete,Functional,60 days,Used to determine whether the browser remembers a user’s login username.
+inst,Functional,session,Used to optimize routing to the user's instance.
+expid_,Marketing,session,Used to render pages based on specified brand.
+disco,Marketing,session,Used to verify the last Salesforce org that was accessed on the same browser for session discovery.
+oid,Functional,2 years,Used to redirect a user to the correct Salesforce org and assist the user for the next login.
+CookieConsentPolicy,Functional,1 year,Used to apply end-user cookie consent preferences set by our client-side utility.
+Player,Functional,1 minute,This first party cookie created by Vimeo is used to remember user’s player mode preferences.
+continuous_play_v3,Functional,2 years,Used to keep track of whether continuous play is on or not for a user
+_gat_pro,Functional,24 hours,Allows Snapwidget to offer anonymous analytics about how the visitors are using your widgets
+woocommerce_cart_hash,Functional,session,Helps WooCommerce determine when cart contents/data changes.
+woocommerce_items_in_cart,Functional,session,Helps WooCommerce determine when cart contents/data changes.
+wp_woocommerce_session_,Functional,2 days,Contains a unique code for each customer so that it knows where to find the cart data in the database for each customer.
+woocommerce_recently_viewed,Functional,session,Powers the Recent Viewed Products widget
+edgebucket,Marketing,2 years,Used by Reddit to deliver advertising
+initref,Marketing,session,Used by Reddit to deliver advertising
+incap_ses_,Functional,session,This cookie is set to allow a visitor to receive site content from one out of multiple servers as the visitor browses the site. This allows the visitor's session to be maintained.
+nlbi_,Functional,session,Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie. To ensure requests by a client are sent to the same origin server.
+visid_incap_,Functional,1 year,"This cookie is from the incapsula CDN and helps us with reliability, security and the performance of our site."
+sp_t,Functional,2 months,Required to ensure the functionality of the integrated Spotify plugin. This does not result in any cross-site functionality.
+sp_landing,Functional,1 day,Required to ensure the functionality of the integrated Spotify plugin. This does not result in any cross-site functionality.
+anj,Marketing,90 days,The anj cookie contains data denoting whether a cookie ID is synced with our partners. ID syncing enables our partners to use their data from outside the Platform on the Platform. 
+uuid2,Marketing,90 days,This cookie contains a unique randomly-generated value that enables the Platform to distinguish browsers and devices.
+cc-,Functional,session,References a cart for anonymous users
+pgid-org-,Functional,session,Hash of personalization information. Used to cache pages or snippets for users with same personalization information
+SecureSessionID-,Functional,session,Reference to authenticated user
+CMSCsrfCookie,Functional,session,Store's a security token that the system uses to validate all form data submitted via POST requests. Helps protect against Cross site request forgery.
+CMSCookieLevel,Functional,1 year,Specifies which cookies are allowed by the visitor.
+CMSLandingPageLoaded,Analytics,20 minutes,Indicates that the landing page has already been visited and the Landing page activity is not logged again for the current visitor. Expires after 20 minutes and the expiration period of the key is renewed every time the website is accessed again.
+CMSPreferredCulture,Functional,1 year,Stores the visitor's preferred content culture.
+CMSUserPage,Analytics,20 minutes,"Stores the IDs (DocumentID, NodeID) of the last visited page. Used for logging landing and exit page web analytics and activities."
+CurrentContact,Analytics,50 years,Stores the GUID of the contact related to the current site visitor. Used to track activities on the website.
+VisitorStatus,Analytics,20 years,Indicates if the visitor is new or returning. Used for tracking the visitors statistic in Web analytics.
+sc_at,Marketing,1 year,Used to identify a visitor across multiple domains.
+_scid,Marketing,1 year,Used to help identify a visitor.
+X-AB,Functional,1 day,This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+_vwo_uuid_v2,Functional,1 year,Used to track visitor movements anonymously.
+_vis_opt_s,Functional,100 days,This cookie detects if you are new or returning to a particular test.
+_vis_opt_test_cookie,Functional,100 days,This is a temporary session cookie generated to detect if the cookies are enabled on the user browser or not.
+_vis_opt_exp_,Functional,100 days,This cookie is generated when a goal is created.
+zc_consent,Functional,1 year,Determines whether the user has accepted the cookie consent box.
+ZCAMPAIGN_CSRF_TOKEN,Functional,session,This cookie is used to distinguish between humans and bots.
+zc_show,Marketing,1 year,Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+zc_cu_exp,Functional,1 year,Contains the expiration date for the cookie with its name.
+zc_loc,Marketing,session,Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+wa_ul,Functional,session,Used to access the service it provides.
+wa_lang_pref,Functional,6 days,Used by WhatsApp to save language preferences
+pa_rubicon_ts,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+pa_google_ts,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+pa_twitter_ts,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+pa_yahoo_ts,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+pa_openx_ts,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+pa_uid,Marketing,2 years,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.
+mailmunch_second_pageview,Marketing,1 year,Used for tracking by the Mailmunch mailing list software
+_mailmunch_visitor_id,Marketing,1 year,This cookie is set by MailMunch which is email collection and email marketing platform.
+tk_ai,Analytics,session,"Stores a randomly generated, anonymous ID. It is only used in the admin area and is used for general analytics tracking."
+tPHG-PS,Marketing,1 year,"Partnerize’s tracking cookie, deployed either upon a user’s clicking of a link on a partner website, or upon the loading of a customer's image to a partner website."
+digitalAudience,Marketing,Unlimited,"Digital Audience uses cookies to improve the effectiveness of digital platforms, thanks to online recognition mechanisms."
+_omappvs,Marketing,1 day,Cookie is used to identify returning visitors
+SnapABugHistory,Marketing,1 year,This cookie is associated with live chat software from SnapEngage. It identifies a visitor to enable a history of engagement to be recorded.
+SnapABugUserAlias,Functional,1 year,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.
+SnapABugVisit,Functional,1 year,This cookie is associated with live chat software from SnapEngage. It identifies a new user session.
+SnapABugRef,Marketing,1 year,This cookie is associated with live chat software from SnapEngage. It records the landing page and origin of a visitor.
+audience,Marketing,1 year,Sync audience data between buyers and sellers.
+yith_wcwl_session_,Functional,29 days,YITH WooCommerce Wishlist plugin uses cookies in order to correctly store user wishlists
+A3,Marketing,1 year,Ads targeting cookie for Yahoo
+APIDTS,Marketing,1 day,This is a Yahoo! Cookie used in the targeting of relevant adverts and content on the Yahoo! platform.
+IDSYNC,Marketing,1 year,Identifies if the cookie-data needs to be updated in the visitor's browser - This is determined through third-party ad-serving-companies.
+INGRESSCOOKIE,Functional,session,"Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience."
+AlteonP,Functional,session,This cookie is set by the load balancers and allows us to evenly balance the number of users across the web servers that we use.
+cref,Marketing,13 months,"Contains data on user navigation, interaction and time spent on the website and its sub-pages – This data is used to optimise the relevance of advertisements and for statistical purposes."
+d,Marketing,13 months,Tracking of users and measure and improve performance and supports personalisation
+iutk,Marketing,10 years,Recognises the user's device and what Issuu documents have been read.
+cookielawinfo-checkbox-necessary,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category 'Necessary'.
+cookielawinfo-checkbox-non-necessary,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category 'Non Necessary'.
+viewed_cookie_policy,Functional,11 months,The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+cookielawinfo-checkbox-marketing,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Marketing'.
+cookielawinfo-checkbox-analytics,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Analytics'.
+cookielawinfo-checkbox-performance,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Performance'.
+cookielawinfo-checkbox-others,Functional,11 months,This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category 'Other'.
+stg_traffic_source_priority,Analytics,30 minutes,Stores the type of traffic source that explains how the visitor reached your website.
+stg_last_interaction,Analytics,365 days,Determines whether the last visitor's session is still in progress or a new session has started.
+stg_returning_visitor,Analytics,365 days,Determines if the visitor has already been to your website — they are returning visitors.
+stg_externalReferrer,Analytics,session,Stores an URL of a website that referred a visitor to your website.
+__sqra,Functional,2 years,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.
+__sqrb,Functional,2 years,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.
+__sqrc,Functional,2 years,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.
+sp,Analytics,1 year,Stores a server-side collector generated unique identifier for a user that is sent with all subsequent tracking event events. Can be used as a first party cookie is the collector is on the same domain as the site.
+_sp_id.,Analytics,2 years,"Stores user information that is created when a user first visits a site and updated on subsequent visits. It is used to identify users and track the users activity across a domain. This cookie stores a unique identifier for each user, a unique identifier for the users current session, the number of visits a user has made to the site, the timestamp of the users first visit, the timestamp of their previous visit and the timestamp of their current visit."
+_sp_ses.,Analytics,30 minutes,Used to identify if the user is in an active session on a site or if this is a new session for a user (i.e. cookie doesn’t exist or has expired).
+AUTH_SESSION_ID,Functional,session,ID of current authentication session.
+KC_RESTART,Functional,session,Internal cookie from Keycloak.
+KC_START,Functional,session,Internal cookie from Keycloak.
+KEYCLOAK_IDENTITY,Functional,session,ID of the current user.
+KEYCLOAK_LOCALE,Functional,session,Language of the interface.
+KEYCLOAK_REMEMBER_ME,Functional,1 year,Internal cookie from Keycloak.
+KEYCLOAK_SESSION,Functional,session,ID of the current browser session
+_abck,Functional,session,This cookie is used to analyse traffic to determine if it is automated traffic generated by IT systems or a human user
+CRAFT_CSRF_TOKEN,Functional,session,Facilitates protection against cross-site request forgeries. This helps to safeguard data as it is submitted through forms on the website.
+CraftSessionId,Functional,session,Craft relies on PHP sessions to maintain sessions across web requests. That is done via the PHP session cookie. Craft names that cookie 'CraftSessionId' by default. This cookie will expire as soon as the session expires.
+ci_session,Functional,session,Cookie to track the users logged in state and access level to restricted pages.
+__lc_cid,Functional,3 years,Necessary for the functionality of the website's chat-box function.
+__lc_cst,Functional,3 years,Necessary for the functionality of the website's chat-box function.
+__lc2_cid,Functional,3 years,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.
+__lc2_cst,Functional,3 years,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.
+__livechat,Functional,3 years,Used to hide the user's personal customisation of LiveChat.
+BVBRANDID,Analytics,20 years,BVBRANDID is a persistent cookie that allows Bazaarvoice to track website analytics data such as how often you visit the site and allocate it to the same website visitor.
+BVBRANDSID,Analytics,20 years,This cookie allows internal Bazaarvoice web analytics to be correlated to the same user browsing session for interactions within a particular client domain.
+BVID,Marketing,365 days,Allows internal Bazaarvoice web analytics to be correlated to the same user for interactions across the Bazaarvoice network.
+BVSID,Marketing,session,Allows internal Bazaarvoice web analytics to be correlated to the same user browsing session for interactions across the Bazaarvoice network.
+_li_id,Marketing,1 year,"These cookies enable us to get insights about the business use of our website, based on IP addresses of the website visitors."
+_li_ses,Marketing,1 year,"These cookies enable us to get insights about the business use of our website, based on IP addresses of the website visitors."
+CAKEPHP,Functional,1 hour,A cookie controller used to manage other Cookies
+wp-wpml_current_language,Functional,session,This cookie is used to track the language preference fo the user
+_flowbox,Functional,1 year,Used to differentiate between users and sessions and collecting statistics on the viewing behaviour for Instagram posts displayed on the website.
+acalltracker,Marketing,30 days,"Adcalls call tracking: ID, phone number"
+acalltrackersession,Functional,session,"This cookie stores a unique identifier, so that it can be tracked which session the visitor is in."
+acalltrackerreferrer,Analytics,60 minutes,"This cookie is set as soon as the AdCalls JavaScript is loaded. The cookie is used to store the referrer of the visitor as quickly as possible, so that it cannot be lost. As soon as the JavaScript has been executed, this cookie is immediately deleted."
+excludecalltracking,Functional,session,"This cookie is set as soon as the visitor - for whatever reason - is not measured, so that we do not take any further actions."
+acalltrackernumber,Marketing,30 minutes,This cookie stores the phone number for the session that is active.
+wordpress_google_apps_login,Functional,session,Used for secure log in to the web site with a Google account.
+ckies_functional,Functional,1 year,Opt-out for functional cookies
+ckies_necessary,Functional,1 year,Confirms that other necessary cookies get set
+ckies_performance,Functional,1 year,Opt-out for performance cookies
+ckies_marketing,Functional,1 year,Opt-out for marketing/third party/consent based cookies
+ClickAndChange,Functional,session,Session Cookie for Creator CMS
+pll_language,Functional,1 year,Saves the chosen language.
+browserupdateorg,Functional,30 days,Stores information if user dismissed notification about outdated browser
+TawkConnectionTime,Functional,session,This cookie is used to determine the connection duration of tawk sessions.
+tawkUUID,Analytics,10 years,This cookie is used to collect information about how the visitor handles the live chat function on the website.
+TawkCookie,Functional,session,Main Tawk.to cookie.
+__tawkuuid,Functional,10 years,Tawk.to cookie used to distinguish users.
+stx_user_id,Marketing,1 year,Delivering targeted and relevant content
+dc,Marketing,10 years,This cookie is used for advertising purposes
+sqzl_abs,Marketing,1 month,A cookie used by Squeezely
+sqzl_consent,Functional,1 year,Stores the user's cookie consent state for the current domain
+sqzl_session_id,Marketing,session,A cookie used by Squeezely
+sqzl_vw,Marketing,1 year,A cookie used by Squeezely
+sqzllocal,Marketing,1 year,This is a cookie from the service Squeezely. It helps us with registering which pages you have visited and with sending you personalized ads
+belco-anonymous-id,Functional,1 year,"This cookie enables you to make use of the chat-function of our customer service-tool, so we can help you anytime."
+belco-cookies,Functional,1 year,"This cookie enables you to make use of the chat-function of our customer service-tool, so we can help you anytime."
+ABTasty,Analytics,13 months,"This cookie sends all test data (visitorID, test and variant IDs, timestamps)."
+ABTastySession,Analytics,session,This cookie allows us to identify a unique session. It allows us to determine that a new session has begun for a given user.
+BCSessionID,Marketing,1 year,Unique identifier for the BlueConic profile.
+BCTempID,Marketing,10 minutes,"Temporary unique identifier for the BlueConic profile, removed after BCSessionID is created."
+BCPermissionLevel,Functional,1 year,Opt-in level (PERSONAL|ANONYMOUS|DO_NOT_TRACK)
+BCReferrerOverrule,Marketing,1 year,Stores a custom bcChannelIdentifier as referrer. For these channels the actual referrer points to the website and not the overrule. The overrule would be lost if not stored in this cookie.
+BCRefusedObjectives,Marketing,1 year,Used to store the identifiers of BlueConic Objectives that were explicitly refused.
+BCRevision,Marketing,1 year,"Used to store requests that are sent to BlueConic, but haven't returned yet. On the next page view, if BCRevision still contains values, those requests are sent again, to prevent data loss. This information is now stored in localStorage; when this fails, the cookie solution is used as fallback."
+BCTracking,Marketing,10 seconds,Used for tracking the channel of an external tracker.
+__adal_ca,Marketing,6 months,"Stores which advertising campaign drove a user to visit, stores traffic source and campaign data."
+__adal_cw,Marketing,7 days,"Ties back conversion events to earlier visits, stores a visit timestamp."
+__adal_id,Marketing,2 years,"Uniquely identify a device, stores a generated Device ID."
+__adal_ses,Marketing,session,"Determines whether there is an active session and which conversions have taken place in this session to prevent duplicates, stores a list of events in this session."
+Pastease.passive.activated,Analytics,1 month,The visitor is selected via this Mopinion cookie and the visitor sees the form.
+Pastease.passive.chance,Analytics,1 month,This Mopinion cookie determines the chance that the visitor will see the form.
+AFFICHE_W,Analytics,3 months,"Used by the advertising platform Weborama to determine the visitor’s interests based on pages visits, content clicked and other actions on the website."
+matchadform,Marketing,29 days,"Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers."
+wfivefivec,Marketing,13 months,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads."
+UserID1,Marketing,180 days,Cookie sets a unique anonymous ID for a website visitor. This ID is used to recognize the user on different sessions and to track their activities on the website. The data collected is used for analysis purposes.
+arcki2,Marketing,14 days,Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+_sn_a,Analytics,1 year,"This is the cookie used for visitor analytics tracking. It sets a visitor ID so that the visitor can be identified across sessions. This enables all visitor related analytics data to be shown on the analytics pages in your Dashboard. Note that if a visitor is opted out of this cookie, you will still be able to see how many views and conversions your campaigns had, just not any visitor-related data like referrer, location, and so on."
+_sn_m,Marketing,1 year," This cookie contains information used for marketing related targeting options. Targeting options like the referrer, UTM, or geo-location. Note that if this cookie is opted out, the marketing targeting options will not work, and the campaign will default to not show."
+_sn_n,Functional,1 year,"This is the necessary cookie set by Sleeknote, as it contains technical information so that the campaigns can show properly and tracking works properly."
